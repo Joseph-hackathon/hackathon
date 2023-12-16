@@ -8,7 +8,7 @@ Please enjoy.
 <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
 <br></br>
 ## Past Participating Hackathons
-> Apr 28 – Jun 11, 2023 / **Chainlink Spring 2023 Hackathon**
+> Apr 28 – Jun 11, 2023 / [**Chainlink Spring 2023 Hackathon**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md)
 
   🛫 Project name: Trypto
 

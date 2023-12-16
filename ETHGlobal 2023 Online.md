@@ -5,12 +5,16 @@
 ## Review of participation in the Second hackathon.
 
 ### Overview:
-The hackathon was organized by Chainlink and is held annually. 
-We met through Discord and decided to form a team consisting only of Koreans.
+The hackathon is hosted by ETHGlobal, which holds hackathons in several countries a year.
+Among them, I participated in a hackathon that is held online once a year.
+We met through KakaoTalk messenger in Korea and decided to form a team comprised entirely of Koreans.
 - 1 PM, 1 frontend developers, 1 backend developer
 
 ### Track:
-- Chainlink Top Qulity Prizes $20,000 ($500)
+- Mask Network - Next.id
+- Polygon - zkEvm
+- Safe - AA
+- Push Protocol
 
 ### Project:
 - Discovey - A social networking service that offers survey and recruiting integration.
@@ -19,16 +23,23 @@ We met through Discord and decided to form a team consisting only of Koreans.
 - 🥉 Safe — Best Use of Safe{Core} for AA
 
 ### Areas for improvement:
-Decision-making as a PM role (initial stage)
-Quality of the presentation materials for the presentation video. (+English pronunciation)
-Lack of awareness regarding the PM role due to it being the first hackathon.
+1) Lack of delivery of instructions as a PM role
+2) The quality of your presentation material in your presentation video. (+English pronunciation)
+3) Lack of awareness of what the team needs
 
 ### Positive aspects:
-1) Gained understanding of the PM role during the hackathon.
-2) Although it took 2 weeks to finalize the idea, the develop timeline progressed as planned without any issues.
-3) Direct communication with the develop team members.
+1) The communication skills I learned through the first hackathon helped me communicate a lot.
+2) Although there was not enough time to make the final presentation video, the submission was still completed on time.
+3) Communication with development team members was free and comfortable, and the hackathon was held together in a good atmosphere.
 
 ### Things I learned from the hackathon:
-The importance of decision-making and leadership in the PM role.
-Need for skills in I.A, product func docs, Wire-Frame, User Flow, and overall project understanding and organization.
-The significance of gathering relevant information
+1) Necessity for conveying instructions in PM role
+2) The project you want to develop must have one checkpoint (wow point): business logic and user needs.
+3) Necessity of hackathon schedule management
+
+> Prototype
+
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/32c379d5-54ca-4f28-accd-4e5a93ce524f)
+<br></br>
+### Demo
+https://ethglobal.com/showcase/discovey-tuywc

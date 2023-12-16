@@ -19,7 +19,7 @@ Please enjoy.
 
   📢 Demo: [Devpost](https://devpost.com/software/not-yet-6rw8c2)
 <br></br>
-> October 6 – 27, 2023 / ETHGlobal 2023 Online
+> October 6 – 27, 2023 / **ETHGlobal 2023 Online**
 
   📶 Project name: Discovey
 

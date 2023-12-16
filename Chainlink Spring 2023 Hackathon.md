@@ -32,5 +32,17 @@ We met through Discord and decided to form a team consisting only of Koreans.
 - Need for skills in I.A, product func docs, Wire-Frame, User Flow, and overall project understanding and organization.
 - The significance of gathering relevant information
 
+> **I.A**
+
+![Untitled (3)](https://github.com/Joseph-hackathon/hackathon/assets/144579614/f3394512-b851-41c6-b493-d0033e699d04)
+<br></br>
+> **Wire-Frame**
+
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/4df1fcf0-9278-43e2-aeb8-2bc041b3cef0)
+<br></br>
+> **User Flow**
+
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/aae68258-6e95-4d0e-912c-1ff8c3c1edea)
+<br></br>
 ### Project Demo:
 https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects

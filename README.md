@@ -4,3 +4,5 @@
 <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)

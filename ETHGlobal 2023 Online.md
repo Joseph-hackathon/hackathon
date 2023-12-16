@@ -2,21 +2,21 @@
 
 ![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/61717b6a-2f0b-4bd0-b39b-ef528c9077e1)
 
-## Review of participation in the first hackathon.
+## Review of participation in the Second hackathon.
 
 ### Overview:
 The hackathon was organized by Chainlink and is held annually. 
 We met through Discord and decided to form a team consisting only of Koreans.
-- 1 PM, 2 frontend developers, 1 backend developer, 1 smart contract developer
+- 1 PM, 1 frontend developers, 1 backend developer
 
 ### Track:
 - Chainlink Top Qulity Prizes $20,000 ($500)
 
 ### Project:
-- Trypto - Web3-based social platform for travel
+- Discovey - A social networking service that offers survey and recruiting integration.
 
 ### Result:
-- Winner (A total of 40 teams were selected)
+- 🥉 Safe — Best Use of Safe{Core} for AA
 
 ### Areas for improvement:
 Decision-making as a PM role (initial stage)

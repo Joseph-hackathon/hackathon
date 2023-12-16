@@ -3,6 +3,9 @@
 # I'm Project Manager
 This section contains portfolios and reviews of hackathons we have participated in so far.
 Please enjoy.
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
 <br></br>
 ## Past Participating Hackathons
 > Apr 28 – Jun 11, 2023 / **Chainlink Spring 2023 Hackathon**
@@ -29,12 +32,10 @@ Please enjoy.
 
   👨🏼‍💻 Role: Product Manaer (PM)
   
-  ⚙️ With Team: 5 (PM 1, Frontend 1, Backend 1 [Smart Contract made by the together])
+  ⚙️ With Team: 3 (PM 1, Frontend 1, Backend 1 [Smart Contract made by the together])
 
   📢 Demo: [ETHGlobal Showcase](https://ethglobal.com/showcase/discovey-tuywc)
 <br></br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight)
 

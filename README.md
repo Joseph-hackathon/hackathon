@@ -5,7 +5,7 @@ This section contains portfolios and reviews of hackathons we have participated 
 Please enjoy.
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/> <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/>
 <br></br>
 ## Past Participating Hackathons
 > Apr 28 – Jun 11, 2023 / [**Chainlink Spring 2023 Hackathon**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md)

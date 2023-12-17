@@ -22,8 +22,6 @@ We met through Discord and decided to form a team consisting only of Koreans.
 Users can create itineraries and interact with users worldwide by sharing and communicating about their travel schedules on the community page.
 To record and commemorate their visited destinations, users receive badges in the form of dNFTs, which feature landmarks of the respective countries.
 
-<span style="background-color:#ffffff"> 노란형광펜 </span>
-
 ### Build Tools
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white"/>
 

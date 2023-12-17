@@ -3,6 +3,10 @@
 
 ## Review of participation in the first hackathon.
 
+### Background:
+We combine the concept of memories with travel services and offer a platform called Trypto, where memories are stored on the blockchain.
+If you want see the details you doing in [Devpost page](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)
+
 ### Overview:
 The hackathon was organized by Chainlink and is held annually.
 We met through Discord and decided to form a team consisting only of Koreans.

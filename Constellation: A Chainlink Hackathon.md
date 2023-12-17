@@ -33,7 +33,7 @@ Our platform allows for the registration of projects that are no longer being up
 
 ---
 ### Build Tools
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white"/>
 
 ---
 ### Result:

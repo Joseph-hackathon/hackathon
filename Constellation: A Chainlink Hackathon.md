@@ -59,10 +59,16 @@ Our platform allows for the registration of projects that are no longer being up
 
 ---
 ### What i did
-- [I.A / Wire-Frame / Presentation in Figma](https://www.figma.com/file/gzJmNqf1EvyB88jpJKlVxl/Trypto?type=design&node-id=0%3A1&mode=design&t=B8yGManR1QtfNmVw-1)
-- [UserFlow](https://www.figma.com/file/LT2HyVQTDAZBLnDr4v1qR1/Trypto-Flow?type=whiteboard&t=B8yGManR1QtfNmVw-1)
-- [Functions](https://docs.google.com/spreadsheets/d/1cx5HzY9UdQXY5w663Nsdgt0udWtG05e-i-boCeJduFc/edit?usp=sharing)
+- Research
+- [Architecture](https://www.figma.com/file/IXlLupEs7feIdchqNzIBVF/Presentation?type=design&node-id=18%3A2&mode=design&t=2m0iXdd1GjsOZjbc-1)
+- [Presentation](https://youtu.be/pF-R-LahacM?si=ZbkgTPuKbPLRTkJq)
+
+---
+### Github repo
+- [Re-Fresh Platform](https://github.com/orgs/hackathemy/repositories) 
+- [Re-Fresh Contract](https://github.com/hackathemy/refresh-contract)
+- [Polygon ID Contract](https://github.com/hackathemy/polygon-id)
 
 ---
 ### Project Demo video:
-https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects
+https://devpost.com/software/re-fresh-0ocer8?ref_content=user-portfolio&ref_feature=in_progress

@@ -52,5 +52,5 @@ By providing own data and survey data, etc..., earn a profit and use the data fo
 
 ![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/32c379d5-54ca-4f28-accd-4e5a93ce524f)
 <br></br>
-### Demo
+### Project Demo Video
 https://ethglobal.com/showcase/discovey-tuywc

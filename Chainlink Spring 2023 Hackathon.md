@@ -3,11 +3,12 @@
 
 ## Review of participation in the first hackathon.
 
-### Background:
-We combine the concept of memories with travel services and offer a platform called Trypto, where memories are stored on the blockchain.
-- If you want to see details, go to the [Devpost page](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)
-
 ### Overview:
+The ways to preserve memories are through personal memories or pictures. However, relying solely on personal memories has its limitations, which is why many people choose to digitally capture their memories through pictures. Nevertheless, even photographs have their limitations. Pictures stored in certain locations can be deleted or lost, and when the pictures are deleted, the associated memory can no longer be found again. However, by utilizing blockchain technology, we can ensure that memories are preserved indefinitely, immune to deletion or disappearance. The data associated with each memory is recorded on the blockchain, guaranteeing its eternal existence. We combine the concept of memories with travel services and offer a platform called Trypto, where memories are stored on the blockchain.
+
+✨If you want to see details, go to the [Devpost page](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)
+
+### Background:
 The hackathon was organized by Chainlink and is held annually.
 We met through Discord and decided to form a team consisting only of Koreans.
 - 1 PM, 2 frontend developers, 1 backend developer, 1 smart contract developer
@@ -17,6 +18,9 @@ We met through Discord and decided to form a team consisting only of Koreans.
 
 ### Project:
 - Trypto - Web3-based social platform for travel
+
+### Languge
+
 
 ### Result:
 - Winner (A total of 40 teams were selected)

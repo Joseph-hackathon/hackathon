@@ -17,7 +17,12 @@ We met through Discord and decided to form a team consisting only of Koreans.
 - Chainlink Top Qulity Prizes $20,000 ($500)
 
 ### Project:
-- Trypto - Web3-based social platform for travel
+> Trypto - Web3-based social platform for travel
+
+Users can create itineraries and interact with users worldwide by sharing and communicating about their travel schedules on the community page.
+To record and commemorate their visited destinations, users receive badges in the form of dNFTs, which feature landmarks of the respective countries.
+
+<span style='background-color: #fff5b1'>dNFT</span>
 
 ### Build Tools
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white"/>
@@ -40,17 +45,10 @@ We met through Discord and decided to form a team consisting only of Koreans.
 - Need for skills in I.A, product func docs, Wire-Frame, User Flow, and overall project understanding and organization.
 - The significance of gathering relevant information
 
-> **I.A**
+### What i did
+- [I.A / Wire-Frame / Presentation in Figma](https://www.figma.com/file/gzJmNqf1EvyB88jpJKlVxl/Trypto?type=design&node-id=0%3A1&mode=design&t=B8yGManR1QtfNmVw-1)
+- [UserFlow](https://www.figma.com/file/LT2HyVQTDAZBLnDr4v1qR1/Trypto-Flow?type=whiteboard&t=B8yGManR1QtfNmVw-1)
+- [Functions](https://docs.google.com/spreadsheets/d/1cx5HzY9UdQXY5w663Nsdgt0udWtG05e-i-boCeJduFc/edit?usp=sharing)
 
-![Untitled (3)](https://github.com/Joseph-hackathon/hackathon/assets/144579614/f3394512-b851-41c6-b493-d0033e699d04)
-<br></br>
-> **Wire-Frame**
-
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/4df1fcf0-9278-43e2-aeb8-2bc041b3cef0)
-<br></br>
-> **User Flow**
-
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/aae68258-6e95-4d0e-912c-1ff8c3c1edea)
-<br></br>
-### Project Demo:
+### Project Demo video:
 https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects

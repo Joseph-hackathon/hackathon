@@ -37,25 +37,25 @@ Our platform allows for the registration of projects that are no longer being up
 
 ---
 ### Result:
-- Coming soon
+- Award failes
 
 ---
 ### Areas for improvement:
-1) Decision-making as a PM role (initial stage)
-2) Quality of the presentation materials for the presentation video. (+English pronunciation)
-3) Lack of awareness regarding the PM role due to it being the first hackathon.
+1) Quality of the presentation materials for the presentation video. (+English pronunciation)
+2) Additional features are added based on the desired environment for the hackathon.
 
 ---
 ### Positive aspects:
-1) Gained understanding of the PM role during the hackathon.
-2) Although it took 2 weeks to finalize the idea, the develop timeline progressed as planned without any issues.
-3) Direct communication with the develop team members.
+1) The quality of the presentation video was higher than that of the previous hackathon.
+2) The schedule was a little more relaxed than previous hackathons.
+3) Communication with team members was free.
 
 ---
 ### Things I learned from the hackathon:
-- The importance of decision-making and leadership in the PM role.
-- Need for skills in I.A, product func docs, Wire-Frame, User Flow, and overall project understanding and organization.
-- The significance of gathering relevant information
+- Necessity to manage and check development schedule
+- Requires configuring business logic for the project
+- The importance of creativity, novelty and wow points in ideas
+- During Chainlink hackathons, use Chainlink technology as much as possible.
 
 ---
 ### What i did

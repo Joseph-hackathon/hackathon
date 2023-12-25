@@ -15,7 +15,9 @@ Discovey service B2B2C. This is where users can earn money by providing their da
 The hackathon is hosted by ETHGlobal, which holds hackathons in several countries a year.
 Among them, I participated in a hackathon that is held online once a year.
 We met through KakaoTalk messenger in Korea and decided to form a team comprised entirely of Koreans.
-- 1 PM, 1 frontend developers, 1 backend developer
+- Project Manage 1
+- Front-end developer 1
+- Back-end developer 1
 
 ---
 ### Track:

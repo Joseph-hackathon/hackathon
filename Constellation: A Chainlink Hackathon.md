@@ -14,7 +14,10 @@ Therefore, among the projects submerged or dormant, some possess excellent struc
 ### Background:
 From the members who participated in ETHGlobal 2023, two more people joined, making a total of five people participate in the hackathon.
 We brought on one team member who knows Chainlink technology and one backend developer to expand the role on the frontend.
-- 1 PM, 2 frontend developers, 1 backend developer, 1 smart contract developer
+- Project Manager 1
+- Front-end developers 2
+- Back-end developer 1
+- Smart contract developer 1
 
 ---
 ### Track:
@@ -70,5 +73,4 @@ Our platform allows for the registration of projects that are no longer being up
 - [Polygon ID Contract](https://github.com/hackathemy/polygon-id)
 
 ---
-### Project Demo video:
-https://devpost.com/software/re-fresh-0ocer8?ref_content=user-portfolio&ref_feature=in_progress
+### [Project Demo video](https://youtu.be/pF-R-LahacM?si=iyR7Zb04HZkJTIxU)

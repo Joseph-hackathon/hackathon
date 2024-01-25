@@ -1,7 +1,7 @@
 # LFGHO Hackathon
 ![image](https://storage.googleapis.com/ethglobal-api-production/event%2Fpbwky%2Fimages%2F1704482572155_avara-ghost.png)
 
-## Review of participation in the third hackathon.
+## Review of participation in the fourth hackathon.
 
 ### Overview:
 We aim to establish a new paradigm in the cryptocurrency market, not merely to address current issues but to achieve consensus between the existing world and the unfolding future. In the current Web2 landscape, convenient payment systems exist through various applications. These are typically integrated with banks, card companies, and payment gateways, requiring user registration within each application. The evolution of payment systems from offline to online in Web2 has resulted in the current user experience (UX)-enhanced convenient payment systems.

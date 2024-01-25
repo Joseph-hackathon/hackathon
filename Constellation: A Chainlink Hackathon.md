@@ -1,38 +1,34 @@
-# Constellation: A Chainlink Hackathon
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/7a12da1e-f7b0-4270-b8b5-73b904977b86)
+# LFGHO Hackathon
+![image](https://storage.googleapis.com/ethglobal-api-production/event%2Fpbwky%2Fimages%2F1704482572155_avara-ghost.png)
 
 ## Review of participation in the third hackathon.
 
 ### Overview:
-Many IT and software-related service projects initially generate high interest and enthusiasm. However, over time, with the emergence of new technologies and services, these earlier projects often lose attention and stop receiving updates. For instance, in hackathons, only a few projects among many submissions receive awards, while the rest tend to vanish without further updates. Even the awarded projects frequently cease to receive updates after receiving the prize money. Consequently, numerous projects tend to fade away alongside the advent of new technologies.
+We aim to establish a new paradigm in the cryptocurrency market, not merely to address current issues but to achieve consensus between the existing world and the unfolding future. In the current Web2 landscape, convenient payment systems exist through various applications. These are typically integrated with banks, card companies, and payment gateways, requiring user registration within each application. The evolution of payment systems from offline to online in Web2 has resulted in the current user experience (UX)-enhanced convenient payment systems.
 
-Therefore, among the projects submerged or dormant, some possess excellent structure and planning. These projects hold potential to regain attention with new support. Hence, it's crucial to revitalize them by rebuilding them in new directions. This approach can aid in activating these previously potential-driven projects by attracting new prizes or investments.
-
-✨If you want to see details, go to the [Devpost page](https://devpost.com/software/re-fresh-0ocer8)
+✨If you want to see details, go to the [ETHGlobal Showcase](https://ethglobal.com/showcase/gclc-9vtzp)
 
 ---
 ### Background:
-From the members who participated in ETHGlobal 2023, two more people joined, making a total of five people participate in the hackathon.
-We brought on one team member who knows Chainlink technology and one backend developer to expand the role on the frontend.
+We formed a team together by recruiting team members directly from the Discord channel.
 - Project Manager 1
-- Front-end developers 2
-- Back-end developer 1
-- Smart contract developer 1
+- Full stack developers 2 (3)
 
 ---
 ### Track:
-- Cross-chain Solutions
-- SocialFi innovation
-- Tech for good
-- Polygon ID
-- ENS
-- Avalanche
+- *AAVE:*
+  - Payments
+  - Vault
+  - Facilitators
+  - Integration Prize
+- *Chainlink:* Best Projects Built with CCIP and GHO
+- *Family:* Pool Prize
 
 ---
 ### Project:
-> Re-Fresh - To breathe life into a dying project.
+> GCLC - GHO Credit Loan Card
 
-Our platform allows for the registration of projects that are no longer being updated or those seeking continual updates, making their introductions and code fully accessible. Users can participate in these projects, collaborating on updates or rebuilding efforts, and share profits with both the original project owners and those involved in the revamped projects through funding.
+Our goal is to introduce cryptocurrencies into this convenient payment system and enable payments using GHO stablecoins. Moreover, the GHO payment system goes beyond simple transactions it aims to allow users to register and conduct payments using a credit loan card in the form of an NFT (Non-Fungible Token). This NFT card can be easily used for payments. By offering such a payment system, seek to establish a new paradigm in the Web3 ecosystem that coexists harmoniously with the existing Web2 ecosystem.
 
 ---
 ### Build Tools

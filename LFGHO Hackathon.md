@@ -67,9 +67,7 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 
 ---
 ### Github repo
-- [Re-Fresh Platform](https://github.com/orgs/hackathemy/repositories) 
-- [Re-Fresh Contract](https://github.com/hackathemy/refresh-contract)
-- [Polygon ID Contract](https://github.com/hackathemy/polygon-id)
+- [GCLC Platform](https://github.com/PrintRH/LFGHO-GHO-CLC)
 
 ---
-### [Project Demo video](https://youtu.be/pF-R-LahacM?si=iyR7Zb04HZkJTIxU)
+### [Project Demo video](https://ethglobal.com/showcase/gclc-9vtzp)

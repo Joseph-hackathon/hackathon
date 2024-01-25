@@ -40,8 +40,11 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 
 ---
 ### Areas for improvement:
-1) Quality of the presentation materials for the presentation video. (+English pronunciation)
-2) Additional features are added based on the desired environment for the hackathon.
+1) It was disappointing that communication was not as prompt as the time zones did not match due to the team members' busy schedules and living in different countries.
+2) It was disappointing that I could not upload a demo site where I could actually test it.
+3) Integration between front-end and back-end could not be completed.
+4) There were many ideas for a credit card payment system based on GHO, but it was disappointing because it was much more complete than our project.
+5) It was disappointing that the specific architecture and system structure were not established.
 
 ---
 ### Positive aspects:

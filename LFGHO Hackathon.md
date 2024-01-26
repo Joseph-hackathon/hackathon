@@ -72,6 +72,7 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 - Ideation
 - Function
 - Planning
+- Presentation
 
 ---
 ### Github repo

@@ -39,6 +39,10 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 - Award failes
 
 ---
+### Reason for falling:
+- There was no demo site. (Answer received when requesting feedback)
+
+---
 ### Areas for improvement:
 1) It was disappointing that communication was not as prompt as the time zones did not match due to the team members' busy schedules and living in different countries.
 2) It was disappointing that I could not upload a demo site where I could actually test it.
@@ -48,22 +52,26 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 
 ---
 ### Positive aspects:
-1) The quality of the presentation video was higher than that of the previous hackathon.
-2) The schedule was a little more relaxed than previous hackathons.
-3) Communication with team members was free.
+- The design of presentation materials to be used during presentations has been slightly improved.
+- It seems like leadership has increased a little bit.
 
 ---
 ### Things I learned from the hackathon:
-- Necessity to manage and check development schedule
-- Requires configuring business logic for the project
-- The importance of creativity, novelty and wow points in ideas
-- During Chainlink hackathons, use Chainlink technology as much as possible.
+- I learned about the stablecoin GHO from Abe itself.
+- When the topic of stablecoins comes up, I can usually identify trends and trends in the ideas. (credit cards, payment systems, etc.)
+- It was fun to communicate with other development team members.
 
 ---
 ### What i did
-- Research
-- [Architecture](https://www.figma.com/file/IXlLupEs7feIdchqNzIBVF/Presentation?type=design&node-id=18%3A2&mode=design&t=2m0iXdd1GjsOZjbc-1)
-- [Presentation](https://youtu.be/pF-R-LahacM?si=ZbkgTPuKbPLRTkJq)
+- Architecture
+![Architecture](https://github.com/Joseph-hackathon/hackathon/assets/144579614/5694a6c7-f93b-4a0c-867b-548af727a670)
+
+- User Flow
+![User Flow](https://github.com/Joseph-hackathon/hackathon/assets/144579614/80cf6a85-3d86-4e15-b268-c0527b6a3446)
+
+- Ideation
+- Function
+- Planning
 
 ---
 ### Github repo

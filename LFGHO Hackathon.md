@@ -32,7 +32,7 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 
 ---
 ### Build Tools
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/>
 
 ---
 ### Result:
@@ -63,16 +63,19 @@ Our goal is to introduce cryptocurrencies into this convenient payment system an
 
 ---
 ### What i did
-- Architecture
-![Architecture](https://github.com/Joseph-hackathon/hackathon/assets/144579614/5694a6c7-f93b-4a0c-867b-548af727a670)
-
-- User Flow
-![User Flow](https://github.com/Joseph-hackathon/hackathon/assets/144579614/80cf6a85-3d86-4e15-b268-c0527b6a3446)
+👨🏼‍💻 Role: Product Manager (PM)
 
 - Ideation
-- Function
 - Planning
+- Function Docs
 - Presentation
+- Summary for the meeting reports & ETHGlobal contents
+- Prototype
+![Prototype](https://github.com/Joseph-hackathon/hackathon/assets/144579614/b357d7fe-8c0d-4d14-908f-c3697aed8f78)
+- Architecture
+![Architecture](https://github.com/Joseph-hackathon/hackathon/assets/144579614/5694a6c7-f93b-4a0c-867b-548af727a670)
+- User Flow
+![User Flow](https://github.com/Joseph-hackathon/hackathon/assets/144579614/80cf6a85-3d86-4e15-b268-c0527b6a3446)
 
 ---
 ### Github repo

@@ -51,9 +51,13 @@ To record and commemorate their visited destinations, users receive badges in th
 
 ---
 ### What i did
+👨🏼‍💻 Role: Product Manager (PM)
+
 - [I.A / Wire-Frame / Presentation in Figma](https://www.figma.com/file/gzJmNqf1EvyB88jpJKlVxl/Trypto?type=design&node-id=0%3A1&mode=design&t=B8yGManR1QtfNmVw-1)
 - [UserFlow](https://www.figma.com/file/LT2HyVQTDAZBLnDr4v1qR1/Trypto-Flow?type=whiteboard&t=B8yGManR1QtfNmVw-1)
 - [Functions](https://docs.google.com/spreadsheets/d/1cx5HzY9UdQXY5w663Nsdgt0udWtG05e-i-boCeJduFc/edit?usp=sharing)
+- Prototype
+- Summary for the meeting reports & Devpost contents
 
 ---
 ### Project Demo video:

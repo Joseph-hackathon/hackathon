@@ -62,6 +62,14 @@ Our platform allows for the registration of projects that are no longer being up
 
 ---
 ### What i did
+👨🏼‍💻 Role: Product Manager (PM)
+
+- Ideation
+- Planning
+- Function Docs
+- Prototype
+- UserFlow
+- Summary for the meeting reports & Devpost contents
 - Research
 - [Architecture](https://www.figma.com/file/IXlLupEs7feIdchqNzIBVF/Presentation?type=design&node-id=18%3A2&mode=design&t=2m0iXdd1GjsOZjbc-1)
 - [Presentation](https://youtu.be/pF-R-LahacM?si=ZbkgTPuKbPLRTkJq)

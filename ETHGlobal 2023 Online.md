@@ -59,7 +59,7 @@ By providing own data and survey data, etc..., earn a profit and use the data fo
 3) Necessity of hackathon schedule management
 
 ---
-### What i did it:
+### What i did:
 👨🏼‍💻 Role: Product Manager (PM)
 
 - Function Docs

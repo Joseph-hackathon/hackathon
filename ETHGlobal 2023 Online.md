@@ -58,6 +58,13 @@ By providing own data and survey data, etc..., earn a profit and use the data fo
 2) The project you want to develop must have one checkpoint (wow point): business logic and user needs.
 3) Necessity of hackathon schedule management
 
+---
+### What i did it:
+👨🏼‍💻 Role: Product Manager (PM)
+
+- Function Docs
+- Presentation
+- Summary for the meeting reports & ETHGlobal contents
 > Prototype
 
 ![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/32c379d5-54ca-4f28-accd-4e5a93ce524f)

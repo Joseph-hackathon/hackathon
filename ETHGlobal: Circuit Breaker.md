@@ -50,10 +50,10 @@ ZK email provides you with individual email addresses. You can use these address
 2. We should have proactively sought to supplement the team with replacements for the two developers who dropped out, but unfortunately, we only realized this need later in the project timeline.
 
 3. We felt that our idea lacked originality, scoring only 40% in terms of uniqueness.
-- While we were 60% positive about our idea, we acknowledge that it's something many might have considered before, and similar products already exist. However, we believed ZK-LinkHub stands out as a unique platform service offering.
+  - While we were 60% positive about our idea, we acknowledge that it's something many might have considered before, and similar products already exist. However, we believed ZK-LinkHub stands out as a unique platform service offering.
 
 4. There was a deficiency in understanding the blockchain functionalities and architecture processes.
-- We lacked detailed and in-depth understanding of how blockchain integrates into the intricate processes of ZK-LinkHub.
+  - We lacked detailed and in-depth understanding of how blockchain integrates into the intricate processes of ZK-LinkHub.
 
 ---
 ### Positive aspects:

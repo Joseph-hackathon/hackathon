@@ -45,22 +45,28 @@ ZK email provides you with individual email addresses. You can use these address
 
 ---
 ### Areas for improvement:
-1) It was disappointing that communication was not as prompt as the time zones did not match due to the team members' busy schedules and living in different countries.
-2) It was disappointing that I could not upload a demo site where I could actually test it.
-3) Integration between front-end and back-end could not be completed.
-4) There were many ideas for a credit card payment system based on GHO, but it was disappointing because it was much more complete than our project.
-5) It was disappointing that the specific architecture and system structure were not established.
+1. It was regrettable that although we started the project with a team of five members, communication broke down with two developers midway through, leading to a situation where we couldn't showcase the completed product.
+
+2. We should have proactively sought to supplement the team with replacements for the two developers who dropped out, but unfortunately, we only realized this need later in the project timeline.
+
+3. We felt that our idea lacked originality, scoring only 40% in terms of uniqueness.
+- While we were 60% positive about our idea, we acknowledge that it's something many might have considered before, and similar products already exist. However, we believed ZK-LinkHub stands out as a unique platform service offering.
+
+4. There was a deficiency in understanding the blockchain functionalities and architecture processes.
+- We lacked detailed and in-depth understanding of how blockchain integrates into the intricate processes of ZK-LinkHub.
 
 ---
 ### Positive aspects:
-- The design of presentation materials to be used during presentations has been slightly improved.
-- It seems like leadership has increased a little bit.
+- This time, collaborating with a UX/UI designer for the first time, I was highly satisfied with the quality and design of the presentation materials and prototypes. 
+- The designer was incredibly passionate and enjoyed taking on challenges, which made the presentation a success. 
+- The her is eagerly wanted to participate in presenting, and the results were very satisfactory. After I shared the overview and processes of the product, her understood it well and smoothly conducted the presentation.
 
 ---
 ### Things I learned from the hackathon:
-- I learned about the stablecoin GHO from Abe itself.
-- When the topic of stablecoins comes up, I can usually identify trends and trends in the ideas. (credit cards, payment systems, etc.)
-- It was fun to communicate with other development team members.
+- I was able to learn about the role of a designer, communication with a designer, and how to work more efficiently when working with a designer.
+(Sites that can be referenced, sharing prototypes in the form of simple sketches, sharing details about what functions or content are included for each page, etc.)
+- I learned that pronunciation diction and accuracy are necessary when giving a presentation. (The product must be accurately delivered to the audience.)
+- While conducting research to see if there were similar types of products, I referenced and learned a lot from a variety of products. (zkemail, Dmail, etc.)
 
 ---
 ### What i did

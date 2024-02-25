@@ -38,6 +38,7 @@ ZK email provides you with individual email addresses. You can use these address
 ---
 ### Result:
 - Award failes
+(Finalist round 2)
 
 ---
 ### Reason for falling:

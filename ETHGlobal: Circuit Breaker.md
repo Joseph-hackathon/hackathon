@@ -41,7 +41,7 @@ ZK email provides you with individual email addresses. You can use these address
 (Finalist round 2)
 
 ---
-### Reason for falling:
+### Reason for falling (Gave the feedback from ETHGlobal Manager):
 1. The idea presented is good, but it may not be highly unique or original. However, this is acceptable considering many projects in the event were unfamiliar with the technology involved.
 
 2. Features were discussed in detail, but it's advisable to demonstrate them during the demo. Having a working demo is always beneficial.

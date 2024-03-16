@@ -42,7 +42,13 @@ ZK email provides you with individual email addresses. You can use these address
 
 ---
 ### Reason for falling:
-- There was no demo site. (Answer received when requesting feedback)
+1. The idea presented is good, but it may not be highly unique or original. However, this is acceptable considering many projects in the event were unfamiliar with the technology involved.
+
+2. Features were discussed in detail, but it's advisable to demonstrate them during the demo. Having a working demo is always beneficial.
+
+3. UI frames were well-designed, but without a demo site, their effectiveness was limited.
+
+4. The blinking arrow in the presentation was found to be a little annoying from a presentation perspective.
 
 ---
 ### Areas for improvement:

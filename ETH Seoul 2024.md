@@ -1,6 +1,6 @@
 # ETH Seoul 2024 Hackathon
 
-## Review of participation in the sixth hackathon.
+## Review of participation in the 7 hackathon.
 
 ### Overview:
 AI Guard Snap provides wallet snap services and AI-based API services.

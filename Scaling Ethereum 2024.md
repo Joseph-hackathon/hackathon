@@ -1,6 +1,6 @@
 # Scaling Ethereum 2024
 
-## Review of participation in the sixth hackathon.
+## Review of participation in the 8 hackathon.
 
 ### Overview:
 This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.

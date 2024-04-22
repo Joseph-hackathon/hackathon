@@ -1,31 +1,32 @@
-# ETH Seoul 2024 Hackathon
+# Scaling Ethereum 2024
 
 ## Review of participation in the sixth hackathon.
 
 ### Overview:
-AI Guard Snap provides wallet snap services and AI-based API services.
-We showcase how our service can be utilized using MetaMask's snap feature. Additionally, our service is designed for easy integration by all developers, with accompanying documentation for simplicity.
+We offer various existing e-commerce platforms such as Amazon and Shopify in a Web3 format. This platform operates in a decentralized manner, providing personalized markets tailored to individual sellers, enabling them to sell their products.
 
-Through our service, users can verify the safety of their interactions and easily obtain explanations for the code.
+Sellers can create and register their own stores, and they have the option to set commissions directly for their products.
 
-Lowering the entry barriers for blockchain applications for mainstream users through AI-driven approaches is what we believe to be true mass adoption in another direction.
+Buyers can browse products from multiple sellers and proceed with purchases using tokens. The reliability of these products can be verified through ETHSIGN's registered store sales registration certificates and product certificates. Additionally, information regarding the shipping process and detailed source information for the products is transparently provided using blockchain-based data.
 
-✨If you want to see details, go to the [Devfolio Showcase](https://devfolio.co/projects/dappassistants-9d92)
+While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack in the Web3 space, we offer a broader range of products for purchase and sale beyond just NFTs in an e-commerce format.
+
+✨If you want to see details, go to the [ETHGlobal Showcase](https://ethglobal.com/showcase/complace-7v01t)
 
 ---
 ### Background:
 We formed a team together by recruiting team members directly from the Discord channel.
 - Project Manager 1
-- Full stack developers 2
+- Full stack developers 1
 
 ---
 ### Track:
-- *Astar Foundation*
+- *Arbitrum*
   - ⛓ Recommended Things for Builders
   - 🔐 AI or SocialFi Projects
-- *Neopin* 
+- *Gnosis* 
   - Best non-DeFi Use cas
-- *Near Dev Hub* 
+- *Sign Protocol* 
   - AI Governance is NEAR
 - *Injective*
   - Injective inEVM Bounty Program

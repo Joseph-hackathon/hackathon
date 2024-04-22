@@ -3,13 +3,7 @@
 ## Review of participation in the sixth hackathon.
 
 ### Overview:
-We offer various existing e-commerce platforms such as Amazon and Shopify in a Web3 format. This platform operates in a decentralized manner, providing personalized markets tailored to individual sellers, enabling them to sell their products.
-
-Sellers can create and register their own stores, and they have the option to set commissions directly for their products.
-
-Buyers can browse products from multiple sellers and proceed with purchases using tokens. The reliability of these products can be verified through ETHSIGN's registered store sales registration certificates and product certificates. Additionally, information regarding the shipping process and detailed source information for the products is transparently provided using blockchain-based data.
-
-While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack in the Web3 space, we offer a broader range of products for purchase and sale beyond just NFTs in an e-commerce format.
+This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
 
 ✨If you want to see details, go to the [ETHGlobal Showcase](https://ethglobal.com/showcase/complace-7v01t)
 
@@ -33,15 +27,16 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Project:
-> AI Guard Snap
+> Complace
 
-**Are we truly achieving mass adoption?**
-The recent efforts in the blockchain ecosystem have been focused on "Mass adoption." However, these efforts mostly concentrate on economic aspects such as TPS, gas fee optimization, and gas fee delegation.
-We questioned what true mass adoption entails. We believe that lowering the barriers to entry for blockchain dApp applications and accessibility is crucial.
-Looking around, we notice that many individuals not familiar with the blockchain industry still struggle to understand dApps and platforms like extensions and wallets.
-Especially concerning recent events like airdrops, we observed that many newcomers easily fall victim to phishing and scams.
-Beginners often find themselves calling unfamiliar contracts and dealing with unfamiliar terms as they navigate through dApps and web3 applications.
-To address this, we offer an extension service, AI Guard Snap & API, that explains to general users what contracts they are calling and detects risks associated with such calls, providing alerts against calling phishing contracts.
+**Web 3.0 E-commerce Marketplace**
+We offer various existing e-commerce platforms such as Amazon and Shopify in a Web3 format. This platform operates in a decentralized manner, providing personalized markets tailored to individual sellers, enabling them to sell their products.
+
+Sellers can create and register their own stores, and they have the option to set commissions directly for their products.
+
+Buyers can browse products from multiple sellers and proceed with purchases using tokens. The reliability of these products can be verified through ETHSIGN's registered store sales registration certificates and product certificates. Additionally, information regarding the shipping process and detailed source information for the products is transparently provided using blockchain-based data.
+
+While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack in the Web3 space, we offer a broader range of products for purchase and sale beyond just NFTs in an e-commerce format.
 
 ---
 ### Build Tools
@@ -49,7 +44,7 @@ To address this, we offer an extension service, AI Guard Snap & API, that explai
 
 ---
 ### Result:
-- Award failes
+- Not yet
 
 ---
 ### Reason for falling (Feedback from judges):

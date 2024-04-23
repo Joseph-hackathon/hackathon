@@ -16,14 +16,15 @@ We formed a team together by recruiting team members directly from the Discord c
 ---
 ### Track:
 - *Arbitrum*
-  - ⛓ Recommended Things for Builders
-  - 🔐 AI or SocialFi Projects
 - *Gnosis* 
-  - Best non-DeFi Use cas
 - *Sign Protocol* 
-  - AI Governance is NEAR
-- *Injective*
-  - Injective inEVM Bounty Program
+- *RISC Zero*
+- *Nillion*
+- *Morph*
+- *Neon EVM*
+- *Filecoin*
+- *Avail*
+- *PowerLoom*
 
 ---
 ### Project:
@@ -48,48 +49,36 @@ While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack 
 
 ---
 ### Reason for falling (Feedback from judges):
-- *Neopin*
-  - First of all, in the case of the part pre-filtered through AI, there was little evidence to judge that the contract was an abnormal contract in the part where ChatGPT was used.
-  - In the case of contracts where the actual code has not been released, it will be impossible to judge, which was also a bit disappointing.
-  - Above all, there are already a number of APIs available that review and notify fraud detection or abnormal contracts through AI.
-  - I think it would be good to use AI but think a little more about how to collect back data.
-- *Astar Network*
-  - Rather than focusing on Astar zkEVM, it was a form that could be used in any EVM chain much more broadly.
-  - More specifically, there is a lack of explanation about red/green and how much scammy is filtered out.
-  - It would have been nice if there had been a part that showed why it was scary.
-- *Injective*
-  - We decided to choose the project that would provide the most value to Injective, and that was our new DEX.
+- TBA
 
 ---
 ### Areas for improvement:
-1) Since the hackathon was held for 3 days and 2 nights and we stayed up all night, it was necessary to come to our senses when we were confused and focus even more on the detailed explanation of the project, the functions used, and the process for that function.
-2) Need to identify trends in the latest blockchain market.
-3) When using AI, it is necessary to study and explain how to process AI, collect data, and learn.
+1) TBA
 4) English presentation required
 
 ---
 ### Positive aspects:
-- It was nice to see a high-quality project come out in a short period of time.
-- It was a great experience to meet and communicate with people currently working and developing in the blockchain industry.
-- It was nice to be able to directly see presentations on various projects.
-- Although it was my 6th hackathon, it was nice to feel that I needed to improve and learn more.
+- It started with two developers, but one of them was unable to participate due to personal reasons, so we worked with one developer until the end and did our best to produce a good demo, so I was satisfied and grateful.
 
 ---
 ### Things I learned from the hackathon:
-- When creating a project using AI, not only an explanation from the blockchain and service perspective is needed, but also a detailed explanation of the creation process and functions of the AI ​​model itself.
+- I learned that if we continue to communicate with developers and remind them of the development direction, we may be able to install more necessary MVP features as a priority.
+- I thought and learned that one strategy and direction would be to understand in more detail what the sponsor track wants and provide services tailored to that sponsor track.
 
 ---
 ### What i did
 👨🏼‍💻 Role: Product Manager (PM)
 
+- Ideation
 - Planning
 - Make the Demo video
 - Presentation
-- Summary for the meeting reports & Devfolio contents
+- Summary for the meeting reports & ETHGlobal contents
 
 ---
 ### Github repo
-- [AI Guard Snap Platform](https://github.com/hackathemy/ai-guard-snap)
+- [Complace Platform](https://github.com/LastHopeOfGPNU/e-commercial-dapp)
 
 ---
-### [Project API Docs](https://aiguad.hackathemy.me/swagger/)
+### Demo link
+- [Project Demo link](https://e-commercial-dapp.vercel.app/)

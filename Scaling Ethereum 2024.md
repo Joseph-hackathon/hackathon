@@ -1,4 +1,5 @@
 # Scaling Ethereum 2024
+![event_of2r2_images_1675731302121_BG_prizeFold](https://github.com/Joseph-hackathon/hackathon/assets/144579614/d064c764-e36a-4a4a-8ea6-03f4150f5c6a)
 
 ## Review of participation in the 8 hackathon.
 

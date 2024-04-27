@@ -81,6 +81,7 @@ To address this, we offer an extension service, AI Guard Snap & API, that explai
 ---
 ### Things I learned from the hackathon:
 - When creating a project using AI, not only an explanation from the blockchain and service perspective is needed, but also a detailed explanation of the creation process and functions of the AI ​​model itself.
+- In blockchain hackathons, the nature of projects in which on-chain transactions occur is of greater interest and focus, so more functions should be added to on-chain projects than to projects that are off-chain.
 
 ---
 ### What i did

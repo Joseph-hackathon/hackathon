@@ -46,11 +46,7 @@ While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack 
 
 ---
 ### Result:
-- Not yet
-
----
-### Reason for falling (Feedback from judges):
-- TBA
+- *🏃Filecoin*: Decentralize your dApps with Filecoin - Runner Ups
 
 ---
 ### Areas for improvement:
@@ -75,6 +71,7 @@ While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack 
 - Make the Demo video
 - Presentation
 - Summary for the meeting reports & ETHGlobal contents
+- Project Sponsor Track Submission Strategy
 
 ---
 ### Github repo

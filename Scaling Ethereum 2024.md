@@ -49,9 +49,9 @@ While this may resemble NFT marketplaces such as OpenSea, Rarible, and BackPack 
 - *🏃Filecoin*: Decentralize your dApps with Filecoin - Runner Ups
 
 ---
-### Areas for improvement:
-1) TBA
-4) English presentation required
+### Areas for improvement(Gave the feedback from ETHGlobal Manager):
+1) "The idea was good, but it was disappointing that using the recorder didn't feel natural and the video felt like it ended suddenly."
+2) English presentation required
 
 ---
 ### Positive aspects:

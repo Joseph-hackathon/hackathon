@@ -3,6 +3,10 @@
 
 ## Review of participation in the 9 hackathon.
 
+## Contents
+- [Github repo](https://github.com/hackathemy/nftinfo)
+- [Demo Site](https://demo.nftinfo.online/)
+
 ### Overview:
 NFT.info is an innovative platform that combines blockchain technology with distributed file systems to ensure the security and accessibility of data. 
 It is designed to securely store and access data for digital assets such as NFTs (Non-Fungible Tokens). 
@@ -83,11 +87,8 @@ but is also designed so that there is no need to build a separate CDN service.
 - Summary for the meeting reports & Dorahacks contents
 - Make the Github read.me contents
 
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/513598bf-0bb7-414b-9235-db0cfc1dcd10)
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/10a703b1-d8ec-41a9-994c-0d29bfd82af2)
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/559d4903-a980-4b6f-a7e7-ba84024739e0)
 
 
----
-### Github repo
-- [NFT.info](https://github.com/hackathemy/nftinfo)
-
----
-### [NFT.info Demo](https://demo.nftinfo.online/)

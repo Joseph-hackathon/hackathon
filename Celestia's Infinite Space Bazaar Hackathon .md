@@ -60,22 +60,21 @@ but is also designed so that there is no need to build a separate CDN service.
 - Not yet
 ---
 ### Areas for improvement:
-1) Since the hackathon was held for 3 days and 2 nights and we stayed up all night, it was necessary to come to our senses when we were confused and focus even more on the detailed explanation of the project, the functions used, and the process for that function.
-2) Need to identify trends in the latest blockchain market.
-3) When using AI, it is necessary to study and explain how to process AI, collect data, and learn.
-4) English presentation required
+1) In terms of schedule management, we should have continued to monitor and proceed with development work according to the period, but it was insufficient.
+2) There was a lack of decision-making power to decide whether to add features. (It was necessary to manage the schedule and figure out whether it could be completed within the period.)
+3) There was a lack of leadership to direct work tasks to team members.
+4) Because there was a lack of understanding of the project overall, it was difficult to lead the project.
+5) English presentation required
 
 ---
 ### Positive aspects:
-- It was nice to see a high-quality project come out in a short period of time.
-- It was a great experience to meet and communicate with people currently working and developing in the blockchain industry.
-- It was nice to be able to directly see presentations on various projects.
-- Although it was my 6th hackathon, it was nice to feel that I needed to improve and learn more.
+- Even though I lacked an overall understanding of the project, it was good because I was able to understand it all the way through and complete the development with good results.
+- I am glad that I was able to understand and understand a little more about what I am currently lacking.
 
 ---
 ### Things I learned from the hackathon:
-- When creating a project using AI, not only an explanation from the blockchain and service perspective is needed, but also a detailed explanation of the creation process and functions of the AI ​​model itself.
-- In blockchain hackathons, the nature of projects in which on-chain transactions occur is of greater interest and focus, so more functions should be added to on-chain projects than to projects that are off-chain.
+- I was able to directly learn and experience the ecosystem related to Celestia and investigate and understand the ecosystem related to DA.
+- I learned about the current problems and limitations of IPFS and how to solve them through DA through this hackathon and hackathon product ideas.
 
 ---
 ### What i did

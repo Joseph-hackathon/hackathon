@@ -1,55 +1,43 @@
-# Celestia's Infinite Space Bazaar Hackathon
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/37ee2fc3-d5a8-4f18-80a3-f098d0069512)
+# Story Protocol v1.0 Buildathon
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/0e424ed9-70fb-4606-b2e3-fe93619bfd98)
 
-## Review of participation in the 9 hackathon.
+## Review of participation in the 10 hackathon.
 
 ## Contents
-- [Github repo](https://github.com/hackathemy/nftinfo)
-- [Demo Site](https://demo.nftinfo.online/)
+- [Github repo](https://github.com/Story-Podcasts)
+- [Demo Site](https://frontend-delta-lovat.vercel.app/)
 
 ### Overview:
-NFT.info is an innovative platform that combines blockchain technology with distributed file systems to ensure the security and accessibility of data. 
-It is designed to securely store and access data for digital assets such as NFTs (Non-Fungible Tokens). 
-While many current NFT platforms use IPFS (InterPlanetary File System), this method has issues where data cannot be found if the seed is inactive. 
-NFT.info addresses these issues to provide a more reliable service for users.
+The Story Podcast project is an integrated platform designed to effectively manage, license, protect, and monetize audio content. Its key features include registration and management, licensing system, content search and identification, attribution, platform transactions, and tipping functionality. This project aims to support creators in managing and monetizing their content while fostering content protection and collaboration through an efficient and integrated solution.
 
-✨If you want to see details, go to the [Dorahacks Showcase](https://dorahacks.io/ko/buidl/12604)
+✨If you want to see details, go to the [Devfolios Showcase](https://devfolio.co/projects/story-podcast-3d2e)
 
 ---
 ### Background:
-We formed a team together by recruiting team members directly from the Discord channel.
+We formed a team together by recruiting team members directly from the Discord channel and Telegram.
 - Project Manager 1
 - Full stack developers 1
 - Smart Contract 1
-- Back-end 1
 
 ---
 ### Track:
-- *Build Whatever*
-  - 🖼️ Best NFT project on Celestia
-  - 🛠️ Best General Application
-- *Mode* 
-  - L3 with Yield-Bearing assets
-- *Modular Cloud* 
-- *Rollkit*
-- *Gelato*
-- *Conduit*
-- *Hyperlane*
+![banner](https://github.com/Joseph-hackathon/hackathon/assets/144579614/f6bce698-9d99-444e-93ff-4378e6f9dd68)
+
+- *DeFi (IPFi) Track*
+- *Creator Tools Track*
 
 ---
 ### Project:
-> NFT.info
+> Story Pods
 
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/9846d5fe-a624-4fd6-a83c-34f57eed14a9)
+![photo_2024-06-02_13-36-28](https://github.com/Joseph-hackathon/hackathon/assets/144579614/e7efced8-5340-40a3-81d6-75711cdc0fad)
 
 **Key Points:**
-Services that use IPFS build their own separate CDN to guarantee speed or data. 
-Or record the image offchain nftinfo.online (NFT.info) is not only recorded on the blockchain using Celestia DA, 
-but is also designed so that there is no need to build a separate CDN service.
+An integrated podcast platform for creators and podcast listeners. Creators can use the StoryPods dapp to register their episodes as an IP and license it. Another creator can easily remix this episode and create a derivate of it. Users can tip an episode they love and this revenue is shared among the creators according to the royalty terms.
 
 ---
 ### Build Tools
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
 
 ---
 ### Result:
@@ -60,34 +48,25 @@ but is also designed so that there is no need to build a separate CDN service.
 - Not yet
 ---
 ### Areas for improvement:
-1) In terms of schedule management, we should have continued to monitor and proceed with development work according to the period, but it was insufficient.
-2) There was a lack of decision-making power to decide whether to add features. (It was necessary to manage the schedule and figure out whether it could be completed within the period.)
-3) There was a lack of leadership to direct work tasks to team members.
-4) Because there was a lack of understanding of the project overall, it was difficult to lead the project.
-5) English presentation required
+1) This hackathon was not my idea, but was carried out as an idea from my team members. So it took me a while to understand the idea, and I was disappointed that I couldn't find something I could do.
+2) I felt that the creativity of the idea was a little lacking in the 50:50 ratio. This is because 50% helped to quickly introduce the existing Web2 service podcast into the new blockchain market, which develops and upgrades to meet the new web3 trend market, while the remaining 50% was a service that was previously used, so it is a new technology for ideas. I think creativity was very lacking.  This is because it is highly likely that the podcast service had similar ideas to ours.
+3) English presentation required
 
 ---
 ### Positive aspects:
-- Even though I lacked an overall understanding of the project, it was good because I was able to understand it all the way through and complete the development with good results.
-- I am glad that I was able to understand and understand a little more about what I am currently lacking.
-
+- Overall, I am satisfied because the UI/UX is very pretty and beautifully created, and the development was completed as a good project.
+- Although I did not have a large part in the hackathon, I am very satisfied because the developer team members communicated with each other and completed the development perfectly.
 ---
 ### Things I learned from the hackathon:
-- I was able to directly learn and experience the ecosystem related to Celestia and investigate and understand the ecosystem related to DA.
-- I learned about the current problems and limitations of IPFS and how to solve them through DA through this hackathon and hackathon product ideas.
+- I believe that the IP industry market has high future value, and I learned that many services in the new IP era are expected to be released in the future.
+- I learned that what is important in the IP industry is the creator's ownership of intellectual property rights and licensing, and that the protocol that authenticates and proves them is the story protocol, and that the function to pay royalties accordingly can be included in the contract. I learned.
 
 ---
 ### What i did
 👨🏼‍💻 Role: Product Manager (PM)
 
 - Planning
-- Make the Demo video
-- Presentation
-- Summary for the meeting reports & Dorahacks contents
+- Checek the Schedule
+- Monitoring
+- Summary for the meeting reports & Devfolio contents
 - Make the Github read.me contents
-
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/513598bf-0bb7-414b-9235-db0cfc1dcd10)
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/10a703b1-d8ec-41a9-994c-0d29bfd82af2)
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/559d4903-a980-4b6f-a7e7-ba84024739e0)
-
-

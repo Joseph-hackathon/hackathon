@@ -40,13 +40,13 @@ We formed a team together by recruiting team members directly from the Discord c
 **Key Points:**
 
 > **Providing Liquidity to Asset Pairs:**
-In an NFT AMM, providing liquidity to asset pairs makes the trading experience smoother and more reliable. Liquidity providers earn a share of the transaction fees, encouraging more users to provide liquidity. This increased liquidity helps stabilize prices.
+- In an NFT AMM, providing liquidity to asset pairs makes the trading experience smoother and more reliable. Liquidity providers earn a share of the transaction fees, encouraging more users to provide liquidity. This increased liquidity helps stabilize prices.
 
 > **Buying and Selling NFTs:**
-Users can sell NFTs through ERC-721 tokens and buy fractionalized tokens of NFTs through ERC-20 tokens.
+- Users can sell NFTs through ERC-721 tokens and buy fractionalized tokens of NFTs through ERC-20 tokens.
 
 > **Guessing Game with Chainlink VRF:**
-New traders can engage in a simple game, ‘Guess and Claim Free NFT.’ Leveraging Chainlink VRF, the game generates a fully random and fair number, giving users a chance to win free NFTs. Chainlink automation enhances our platform's functionality by distributing free NFTs, improving the customer experience.
+- New traders can engage in a simple game, ‘Guess and Claim Free NFT.’ Leveraging Chainlink VRF, the game generates a fully random and fair number, giving users a chance to win free NFTs. Chainlink automation enhances our platform's functionality by distributing free NFTs, improving the customer experience.
 
 ---
 ### Build Tools

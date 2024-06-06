@@ -25,10 +25,10 @@ We formed a team together by recruiting team members directly from the Discord c
 - *Chainlink*
   - Financial Services Track
   - Cross-Chain Solutions Track
-- *POLYGON*
+- *Polygon*
   - Best MVP of Polygon Cardona
-- *SCROLL*
-- *METIS*
+- *Scroll*
+- *Metis*
   - NFT Marketplace
 
 ---

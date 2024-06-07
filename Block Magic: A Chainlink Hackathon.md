@@ -59,6 +59,7 @@ We formed a team together by recruiting team members directly from the Discord c
 ---
 ### Reason for falling (Feedback from judges):
 - Not yet
+
 ---
 ### Areas for improvement:
 1) Although I carried out all project ideation and planning, I was lacking in leading and guiding the team members. So, one of the development team members focused on leading the development team and the best results were achieved.
@@ -68,8 +69,10 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Positive aspects:
-- Overall, I am satisfied because the UI/UX is very pretty and beautifully created, and the development was completed as a good project.
-- Although I did not have a large part in the hackathon, I am very satisfied because the developer team members communicated with each other and completed the development perfectly.
+- I was satisfied and thought that good results were possible because the development was led by a person with knowledge of DeFi services and technical aspects.
+- This was the first time for the development team members to directly utilize Chainlink technology (VRF, CCIP), Sponsor Track (Scroll, Polygon), and NFT AMM technology, and we were very satisfied with the fact that they were able to apply it while studying and complete the product. .
+- I am very grateful to the development team members for completing the hackathon with good results within the period and developing my idea into a good product even during the busy exam period.
+
 ---
 ### Things I learned from the hackathon:
 - I believe that the IP industry market has high future value, and I learned that many services in the new IP era are expected to be released in the future.

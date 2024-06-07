@@ -75,8 +75,11 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Things I learned from the hackathon:
-- I believe that the IP industry market has high future value, and I learned that many services in the new IP era are expected to be released in the future.
-- I learned that what is important in the IP industry is the creator's ownership of intellectual property rights and licensing, and that the protocol that authenticates and proves them is the story protocol, and that the function to pay royalties accordingly can be included in the contract. I learned.
+- I learned that this cannot be done simply by applying the Chainlink data feed. In order to utilize the data feed, details such as the relevant data format and contract must be put together in the backend, so it cannot be easily applied.
+In addition, since it provides price liquidity through AMM and provides prices directly, data feed is a service that fetches prices, so they are opposite services, so I learned that only one service, AMM, is used in this product.
+- AMM is not shown on the front side, but is developed and applied as a contract in the backend, and NFT AMM was especially good because it was able to think about what to pair with NFT and learned about it.
+(Ringle paired a stablecoin with one NFT and USDC or USDT.)
+- In the Sepolia network, smart contract size is limited. I learned that the size is only applicable up to 24kb.
 
 ---
 ### What i did

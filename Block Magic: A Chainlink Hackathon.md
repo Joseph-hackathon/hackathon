@@ -61,9 +61,10 @@ We formed a team together by recruiting team members directly from the Discord c
 - Not yet
 ---
 ### Areas for improvement:
-1) This hackathon was not my idea, but was carried out as an idea from my team members. So it took me a while to understand the idea, and I was disappointed that I couldn't find something I could do.
-2) I felt that the creativity of the idea was a little lacking in the 50:50 ratio. This is because 50% helped to quickly introduce the existing Web2 service podcast into the new blockchain market, which develops and upgrades to meet the new web3 trend market, while the remaining 50% was a service that was previously used, so it is a new technology for ideas. I think creativity was very lacking.  This is because it is highly likely that the podcast service had similar ideas to ours.
-3) English presentation required
+1) Although I carried out all project ideation and planning, I was lacking in leading and guiding the team members. So, one of the development team members focused on leading the development team and the best results were achieved.
+2) This is related to number 1, but since this was the first time planning a DeFi service called AMM, I think I was unable to lead the team members because I lacked understanding and knowledge of the DeFi financial system itself, not the UI/UX and functional aspects.
+3) It was unfortunate that the meeting with my team members could not proceed properly because my English conversation skills were still lacking.
+4) English presentation required
 
 ---
 ### Positive aspects:

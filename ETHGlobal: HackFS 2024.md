@@ -10,12 +10,12 @@
 ### Overview:
 A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs.
 
-✨If you want to see details, go to the [ETHGlobal Slides](https://ethglobal.com/showcase/filtion-i0rnb)
+✨If you want to see details, go to the [ETHGlobal Showcase](https://ethglobal.com/showcase/filtion-i0rnb)
 
 ---
 ### Background:
 We formed a team together by recruiting team members directly from the Discord channel and Telegram.
-- Project Manager 1
+- Product Manager 1
 - Front-end developer 1
 - Back-end Developer 1
 - Smart Contract 1
@@ -76,11 +76,8 @@ We formed a team together by recruiting team members directly from the Discord c
 👨🏼‍💻 Role: Product Manager (PM)
 
 - Ideation
-- Planning
-- Research about sui games
-- Analysis about sui game metadata in contract
+- Planning (Features, Userflow, Track strategy, Overview, Business Model, etc...)
+- Research about Design reference
 - Checek the Schedule
-- Presentation
-- Create the Architecture
-- Summary for the meeting reports & Sui overflow contents
+- Summary for the meeting reports & ETHGlobal contents
 - Make the Github read.me contents

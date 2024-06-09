@@ -41,11 +41,15 @@ An integrated podcast platform for creators and podcast listeners. Creators can 
 
 ---
 ### Result:
-- Not Yet
+- 🥈 Creator Tool Track - 2nd Place
 
 ---
 ### Reason for falling (Feedback from judges):
-- Not yet
+1) I was very impressed by all of Hemz questions and passion towards the project. Hemz constantly attended Discord discussions & office hours so I knew your team was dedicated to building. Additionally, you **understood Story's mission and came up with a meaningful platform using Story.** Licensing audio clips and registering them as IP is a great example using Story 💯
+2) Yes, I think it would have been nice to see the **tipping feature in action.** That is, showcasing Story's royalty module in action through the tipping feature. Although I know this is on your roadmap 🙂 Additionally, it would have been nice to see a **more built-out workflow for licensing.** Maybe viewing all of the derivatives of a certain podcast, **showing statistics on which podcasts were being licensed out the most,** etc
+3) I thought your solution was very Story-native which I liked. However the project that came in 1st place (Punkga.me) for example **integrated with multiple Story modules (licensing + royalty).** Otherwise, I thought it was great!
+4) The main focus of the hackathon was to gather feedback around v1.0 release of our protocol and to gather passionate builders around Story. Your feedback was very valuable, and I sincerely hope you continue to build on Story and help developers in the ecosystem. That would be most impactful 🙂
+
 ---
 ### Areas for improvement:
 1) This hackathon was not my idea, but was carried out as an idea from my team members. So it took me a while to understand the idea, and I was disappointed that I couldn't find something I could do.

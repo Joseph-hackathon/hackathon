@@ -57,9 +57,11 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Areas for improvement:
-1) This hackathon was not my idea, but was carried out as an idea from my team members. So it took me a while to understand the idea, and I was disappointed that I couldn't find something I could do.
-2) I felt that the creativity of the idea was a little lacking in the 50:50 ratio. This is because 50% helped to quickly introduce the existing Web2 service podcast into the new blockchain market, which develops and upgrades to meet the new web3 trend market, while the remaining 50% was a service that was previously used, so it is a new technology for ideas. I think creativity was very lacking.  This is because it is highly likely that the podcast service had similar ideas to ours.
-3) English presentation required
+1) I don't think we have made use of the **key points and functional aspects to highlight our project** a little more in ETHGlobal content.
+2) It seems that each sponsor track has not been able to effectively completely implement the functional elements that meet the desired requirements.
+**For example:** WeatherXM added a widget to the front that displays the date in the area through the user's location information, but failed to implement a front screen that receives the user's information, such as a modal window that obtains the user's location information.
+3) As far as I know, there are a lot of web 3.0 notations and blog services using IPFS and ENS. However, we tried to use this on the other hand to highlight user-friendly design UX compared to previous projects, and to bring the functions of Web2 blogs such as WeatherXM to show natural web 3.0 blogs and notions services, but we were disappointed that we did not fully utilize it.
+4) English presentation required
 
 ---
 ### Positive aspects:

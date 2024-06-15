@@ -52,8 +52,10 @@ We formed a team together by recruiting team members directly from the Discord c
 - Fleek - Pool Prize
 
 ---
-### Reason for falling (Feedback from judges):
-- Not yet
+### Feedback from judges:
+- **Idea Originality:** While the project concept may not be highly original, its relevance to web3 use cases is strong due to its integration with ENS, IPFS, and Fleek. This shows a clear understanding of web3 technologies.
+- **Security and Privacy:** Emphasizing the project's focus on security and privacy is important. Consider detailing specific measures or protocols used to enhance these aspects.
+- **Future Plans:** The mention of future ideas is promising. Providing a roadmap or potential next steps could add depth and show the project's potential for growth.
 
 ---
 ### Areas for improvement:

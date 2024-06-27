@@ -53,11 +53,9 @@ but is also designed so that there is no need to build a separate CDN service.
 
 ---
 ### Result:
-- Not Yet
+- 🥉 Build whatever Track — 3rd Place
+- Connect Modular Expansion with Hyperlane
 
----
-### Reason for falling (Feedback from judges):
-- Not yet
 ---
 ### Areas for improvement:
 1) In terms of schedule management, we should have continued to monitor and proceed with development work according to the period, but it was insufficient.

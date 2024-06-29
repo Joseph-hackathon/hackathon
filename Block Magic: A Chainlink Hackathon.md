@@ -54,11 +54,19 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Result:
-- Not Yet
+- Failed
 
 ---
 ### Reason for falling (Feedback from judges):
 - Not yet
+
+---
+### Reason for falling (My opnions):
+1) The demo video is very lacking. (Because there is no explanation.) 
+
+2) Our project cannot be considered completely completed. 
+
+3) It would be good to simply show the platform in operation in the demo video, but it would have been better if specific functions were shown and explained along with the contract code. When viewed as a whole, our project does not show any specific points.
 
 ---
 ### Areas for improvement:

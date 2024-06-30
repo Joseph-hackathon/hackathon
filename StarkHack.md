@@ -1,4 +1,4 @@
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/cc7317db-5986-45d1-9dd4-171b6cb98a6f)# StarkHack 2024
+# StarkHack 2024
 ![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/ba22f254-2d8c-4783-bb34-6772f83e9436)
 
 ## Review of participation in the 14 hackathon.
@@ -55,33 +55,28 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Areas for improvement:
-1) I don't think we have made use of the **key points and functional aspects to highlight our project** a little more in ETHGlobal content.
-2) It seems that each sponsor track has not been able to effectively completely implement the functional elements that meet the desired requirements.
-   **For example:** WeatherXM added a widget to the front that displays the date in the area through the user's location information, but failed to implement a front screen that receives the user's information, such as a modal window that obtains the user's location information.
-3) As far as I know, there are a lot of web 3.0 notations and blog services using IPFS and ENS. However, we tried to use this on the other hand to highlight user-friendly design UX compared to previous projects, and to bring the functions of Web2 blogs such as WeatherXM to show natural web 3.0 blogs and notions services, but we were disappointed that we did not fully utilize it.
-4) English presentation required
-5) I wanted to add a function that automatically generates AI images using the LilyPad and can be used for content, but I couldn't put it in the initial plan and tried to put it in the second half, but it was a shame that I couldn't put it in because the schedule was not working.
-
-This is thought to have caused such a small problem because it did not quickly plan for schedule management and additional functions and did not properly grasp them.
+1) We were unable to complete the project perfectly within the given timeframe. On the final submission day, we uploaded the demo site, but it only contained the front-end code. The smart contract part was not integrated, making it effectively not a functional demo site. This was very disappointing.
+2) The smart contract was also not fully completed within the timeframe. Therefore, we could not demonstrate the core functions of our project, such as the automated harvesting and restaking that rely on the keeper. This was another major disappointment.
+3) Since Cairo is the native language of StarkNet, the development team had to study it while participating in the competition. As a result, we couldn't progress quickly and had to balance studying with actual code development.
+4) During the competition, there were several times when we sought feedback from the judges on our project. We spent a considerable amount of time on this. While receiving feedback is beneficial as it can make our project more robust and improved, it also meant we had to frequently modify our project. This could lead to changes in direction, potentially compromising our original ideas and creativity. In hindsight, spending too much time on feedback might have been a problem and a point of regret.
 
 ---
 ### Positive aspects:
-- Since I teamed up with the designer, I was very satisfied with the front-end screen that was more complete and could be commercialized.
-- I was satisfied with the results that came out in the direction I wanted because I understood the ideas I planned and came up with in the early stages.
-
-It was my initial plan to build my own blog and nonion services using ENS name services suitable for Web 3.0, and the contents are stored in IPFS, transparent and permanently stored, and are equipped with text colors, image uploads, and content generation functions through AI, just as they use blogs and nonions to share their contents with many people and create content.
+1) Despite having to study Cairo, the native language of StarkNet, while participating in the competition, we managed to achieve nearly 90% completion within the given timeframe. I am grateful to and impressed by the development team for their hard work. Because of this effort, we were able to show the smart contract code on GitHub to the judges.
+2) Initially, our understanding of the StarkNet ecosystem was limited, and we struggled to identify exactly what was needed. However, as we progressed through the competition, we gained a better understanding of StarkNet and identified why our project would be valuable to the ecosystem. This improved understanding allowed us to complete the project to a significant extent by giving our best effort until the end.
 
 ---
 ### Things I learned from the hackathon:
-- In a project called Fleek, I learned this time that there was content that helped the hosting service using next.js.
-- Previously, I thought it would be nice to have an environmental blockchain service related to weather and climate, but through this hackathon, I learned that a project called WeatherXM provides clear data such as global climate, temperature, global warming, and humidity within the sponsor track. I also learned that there is a hardware service in the form of climate measurement Wi-Fi.
-- While designing at this hackathon, we developed the front end together, and it was a form that we progressed in an agile form, and we experienced that it progressed faster. However, if the design is delayed, the front end will be delayed, and if we cannot communicate with each other, the design and the front may proceed in different directions, so I learned with the thought that it may be safe to complete the design work first and then proceed with the front work.
+- The StarkNet ecosystem is still not very active. Researching and exploring the ecosystem reveals that there aren't many projects; it mainly consists of basic DeFi services, wallet services, and explorer projects.
+- In the StarkNet ecosystem, wallet services seem to be more active and receive more attention because StarkNet natively supports Account Abstraction (AA). Unlike other networks, which primarily focus on DeFi services with high liquidity, StarkNet appears to have more prominent and well-regarded wallet services.
+- Since the current ecosystem is quite small, it seems like they are trying to expand it through hackathons. The foundation's direct participation as a sponsor track and the provision of grants indicate their intention to support and grow the ecosystem in the future.
 
 ---
 ### What i did
 👨🏼‍💻 Role: Product Manager (PM)
 
 - Planning (Features, Userflow, Overview, etc...)
+- Research for the Starknet ecosystem
 - Checek the Schedule
 - Summary for the meeting reports & ETHGlobal contents
 - Presentation

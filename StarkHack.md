@@ -1,4 +1,4 @@
-# StarkHack 2024
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/cc7317db-5986-45d1-9dd4-171b6cb98a6f)# StarkHack 2024
 ![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/ba22f254-2d8c-4783-bb34-6772f83e9436)
 
 ## Review of participation in the 14 hackathon.
@@ -16,31 +16,30 @@ Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on
 ### Background:
 We formed a team together by recruiting team members directly from the Discord channel and Telegram.
 - Product Manager 1
-- Front-end developer 1
-- Back-end Developer 1
-- Smart Contract 1
-- UX/UI Desginer 1
+- Front-end developer 2
+- Smart Contract 2
 
 ---
 ### Track:
 
-- *Filecoin*
-- *Fleek*
-- *ENS*
-- *WeatherXM*
+- *Starkware*
+- *Starknet Foundation*
+- *Argent*
 
 ---
 ### Project:
-> Filtion
+> HyperStark
 
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/0a178b79-698b-4c99-9eed-af163b3ec65a)
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/77cb8af3-b64e-48f0-9feb-58f7304eb11e)
 
 **Key Points:**
-1) **ENS (Ethereum Name Service) Based Site Creation:** Users can create their own sites through ENS, which converts blockchain addresses into human-readable domain names.
-2) **IPFS (InterPlanetary File System) Storage:** Content created by users is stored on IPFS, a decentralized file storage system that ensures permanent data preservation and easy sharing.
-3) **Content Monetization:** Users can generate revenue from their content through various monetization models supported by Filtion.
-4) **Local Weather Forecasts:** Using WeatherXM's Explorer, users can get an accurate weather forecast directly on their home page.
-5) **Filtion on the Fleek:** Filtion uses Fleek to provide a decentralized execution environment for hosting its Next.js apps.
+1) **Automated Reward Harvesting and Reinvestment**
+   - **Automation with Keeper:** Utilize a **keeper to automate the process of harvesting rewards and reinvesting** them. This means users only need to deposit tokens once, and the system will **automatically handle the harvesting of rewards and reinvestment of STRK** or any other applicable tokens.
+   - **Efficiency:** Automating these processes ensures rewards are harvested and reinvested as soon as possible, maximizing yield and reducing the manual effort required by users.
+
+3) **Simplified User Interface**
+   - **Deposit Function:** A straightforward function allowing users to deposit funds into the vault.
+   - **Withdraw Function:** A function that enables users to withdraw their initial deposits along with any rewards earned, simplifying the user’s interaction with the system.
 
 ---
 ### Build Tools
@@ -48,14 +47,11 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Result:
-- Filecoin - Honorable Mentions: Prize Pool
-- Fleek - Pool Prize
+- Failed
 
 ---
 ### Feedback from judges:
-- **Idea Originality:** While the project concept may not be highly original, its relevance to web3 use cases is strong due to its integration with ENS, IPFS, and Fleek. This shows a clear understanding of web3 technologies.
-- **Security and Privacy:** Emphasizing the project's focus on security and privacy is important. Consider detailing specific measures or protocols used to enhance these aspects.
-- **Future Plans:** The mention of future ideas is promising. Providing a roadmap or potential next steps could add depth and show the project's potential for growth.
+- Not yet
 
 ---
 ### Areas for improvement:
@@ -85,9 +81,8 @@ It was my initial plan to build my own blog and nonion services using ENS name s
 ### What i did
 👨🏼‍💻 Role: Product Manager (PM)
 
-- Ideation
-- Planning (Features, Userflow, Track strategy, Overview, Business Model, etc...)
-- Research about Design reference
+- Planning (Features, Userflow, Overview, etc...)
 - Checek the Schedule
 - Summary for the meeting reports & ETHGlobal contents
+- Presentation
 - Make the Github read.me contents

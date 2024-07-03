@@ -44,26 +44,26 @@ This allows users to **easily check rankings and asset statuses** for each game,
 
 ---
 ### Result:
-- Not Yet
+- Zetta Block: 🥇 1st Place
 
 ---
 ### Reason for falling (Feedback from judges):
 - Not yet
+
 ---
 ### Areas for improvement:
-1) This hackathon was not my idea, but was carried out as an idea from my team members. So it took me a while to understand the idea, and I was disappointed that I couldn't find something I could do.
-2) I felt that the creativity of the idea was a little lacking in the 50:50 ratio. This is because 50% helped to quickly introduce the existing Web2 service podcast into the new blockchain market, which develops and upgrades to meet the new web3 trend market, while the remaining 50% was a service that was previously used, so it is a new technology for ideas. I think creativity was very lacking.  This is because it is highly likely that the podcast service had similar ideas to ours.
-3) English presentation required
+1) English presentation required
 
 ---
 ### Positive aspects:
-- Overall, I am satisfied because the UI/UX is very pretty and beautifully created, and the development was completed as a good project.
-- Although I did not have a large part in the hackathon, I am very satisfied because the developer team members communicated with each other and completed the development perfectly.
+- Before participating in the Sui Hackathon, I participated in the Celestia Hackathon. So, I participated in the Sui Hackathon just 2 days after it ended, so the team members were all exhausted, but they still did their best until the end and finished with a good result, so it was nice to be able to get such a good result.
+- There was no professional front-end developer, but the contract developer wanted to try the front-end, so this was my first time working properly on the front-end. He shared "Gam3.gg" as a reference with very good quality, and it was very similar to the platform. I think there were good results because the front-end was developed well.
+- Even though this was the first time using an API called Zetablock, the backend developer stayed up all night developing it, analyzing the contract, selecting “Features” related to game metadata within the contract, and providing only those parts to Zetablock as an API. I think we got good results by using it to display only the desired data values ​​after data filtering.
 
 ---
 ### Things I learned from the hackathon:
-- I believe that the IP industry market has high future value, and I learned that many services in the new IP era are expected to be released in the future.
-- I learned that what is important in the IP industry is the creator's ownership of intellectual property rights and licensing, and that the protocol that authenticates and proves them is the story protocol, and that the function to pay royalties accordingly can be included in the contract. I learned.
+- Since I only knew the Sui ecosystem as a concept as a network specialized for games, I was thinking of an idea as a game-related project, so while doing research with the development team members, I was checking the smart contract for transactions that occurred in Sui Explorer. I was very surprised to see that it contained methods (or functions) related to game metadata, and this was the first time I learned about it.
+- The function called “Package ID” within the contract allows us to know that the game contains various metadata for various rankings, levels, characters, etc. and is related to game-related data, so we can filter data based on “Package ID” to filter the game. Metadata values ​​are displayed on the front.
 
 ---
 ### What i did

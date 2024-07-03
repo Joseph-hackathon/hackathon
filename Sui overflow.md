@@ -58,7 +58,7 @@ This allows users to **easily check rankings and asset statuses** for each game,
 ### Positive aspects:
 - Before participating in the Sui Hackathon, I participated in the Celestia Hackathon. So, I participated in the Sui Hackathon just 2 days after it ended, so the team members were all exhausted, but they still did their best until the end and finished with a good result, so it was nice to be able to get such a good result.
 - There was no professional front-end developer, but the contract developer wanted to try the front-end, so this was my first time working properly on the front-end. He shared "Gam3.gg" as a reference with very good quality, and it was very similar to the platform. I think there were good results because the front-end was developed well.
-- Even though this was the first time using an API called Zetablock, the backend developer stayed up all night developing it, analyzing the contract, selecting “Features” related to game metadata within the contract, and providing only those parts to Zetablock as an API. I think we got good results by using it to display only the desired data values ​​after data filtering.
+- Even though this was the first time using an API called Zettablock, the backend developer stayed up all night developing it, analyzing the contract, selecting “Features” related to game metadata within the contract, and providing only those parts to Zettablock as an API. I think we got good results by using it to display only the desired data values ​​after data filtering.
 
 ---
 ### Things I learned from the hackathon:

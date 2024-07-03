@@ -30,13 +30,26 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Project:
-> Suirang
+> **Suirang**
+
+![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/80a7a6ff-ddaa-4b2a-884f-97c52469a974)
+
+### Game Rank & Activation Metric
+- Display game popularity ranking and transaction counts to indicate activation status.
+
+### User Rank & Asset Information
+- Provide user rankings and asset holdings information, and encourage participation through airdrop event.
+
+### Game Information & Tip
+- Share user review, guide, and tip about game, and offer event where user can earn reward for contributing information.
+
+> **Architecture**
 
 ![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/a0ce5b55-cd4f-4135-86e7-f6a881890e1b)
 
-**Key Points:**
-Visualizes **transaction activity and asset information** for various games within the web3 ecosystem. 
-This allows users to **easily check rankings and asset statuses** for each game, while also engaging them with airdrop events.
+### Key Points:
+- Visualizes **transaction activity and asset information** for various games within the web3 ecosystem.
+- This allows users to **easily check rankings and asset statuses** for each game, while also engaging them with airdrop events.
 
 ---
 ### Build Tools

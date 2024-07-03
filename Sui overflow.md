@@ -52,7 +52,9 @@ This allows users to **easily check rankings and asset statuses** for each game,
 
 ---
 ### Areas for improvement:
-1) English presentation required
+1) Among the game metadata values included in the contract, if the value that can be used as "Feature" had been specifically set, the developers could have proceeded with the development more conveniently, but it was a pity that I could not set the value specifically.
+2) There was a lack of information and study on the mechanisms for Sui smart contracts and the metadata values included.
+3) English presentation required
 
 ---
 ### Positive aspects:

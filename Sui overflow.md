@@ -94,4 +94,3 @@ We formed a team together by recruiting team members directly from the Discord c
 - Presentation
 - Create the Architecture
 - Summary for the meeting reports & Sui overflow contents
-- Make the Github read.me contents

@@ -60,8 +60,10 @@ We formed a team together by recruiting team members directly from the Discord c
 - Zetta Block: 🥇 1st Place
 
 ---
-### Reason for falling (Feedback from judges):
-- Not yet
+### Reason for falling (Feedback from Zetta Block judges):
+- The idea is solid: analytics is what drives the ops of a game and on-chain data is the foundation of GameFi. Suirang provides the insights of Sui GameFi activities.
+- It has a workable demo in such a short time, which really stands out from most of other projects that are either from existing projects or providing PPTs only
+- It leverages on Zettablock's realtime data APIs to bring values to the decision-making for all the participants in the ecosystem
 
 ---
 ### Areas for improvement:

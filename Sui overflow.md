@@ -88,6 +88,9 @@ We formed a team together by recruiting team members directly from the Discord c
 
 - Ideation
 - Planning
+- Prototype (Sketch)
+![image](https://github.com/user-attachments/assets/f9454084-9746-4948-a712-d751d0e45a30)
+
 - Research about sui games
 - Analysis about sui game metadata in contract
 - Checek the Schedule

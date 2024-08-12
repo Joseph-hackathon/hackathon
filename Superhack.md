@@ -87,9 +87,9 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Positive aspects:
-- Before participating in the Sui Hackathon, I participated in the Celestia Hackathon. So, I participated in the Sui Hackathon just 2 days after it ended, so the team members were all exhausted, but they still did their best until the end and finished with a good result, so it was nice to be able to get such a good result.
-- There was no professional front-end developer, but the contract developer wanted to try the front-end, so this was my first time working properly on the front-end. He shared "Gam3.gg" as a reference with very good quality, and it was very similar to the platform. I think there were good results because the front-end was developed well.
-- Even though this was the first time using an API called Zettablock, the backend developer stayed up all night developing it, analyzing the contract, selecting “Features” related to game metadata within the contract, and providing only those parts to Zettablock as an API. I think we got good results by using it to display only the desired data values ​​after data filtering.
+- The submission time passed, but fortunately, the video was uploaded and the submission was completed successfully. Also, because the organizer gave us a little more time, we were able to edit the video and re-upload it as a demo video with slightly better quality.
+- Even while all of our team members were doing their own work and taking exams, we were able to come up with a platform called Mintory because they developed the platform, followed me closely, and did their best to develop it in the direction I wanted.
+- Although we were not able to integrate many sponsor tracks, our development team members were able to lead the way by researching things that fit the sponsor track and directly making suggestions, while also providing new ideas, such as using World ID and Pyth oracle to fetch prices. It was really nice to be able to develop our platform into a more diverse and highly reliable platform.
 
 ---
 ### Things I learned from the hackathon:

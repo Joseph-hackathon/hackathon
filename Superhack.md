@@ -52,9 +52,19 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ![image](https://github.com/user-attachments/assets/84e47de7-c004-468f-87c4-000079aa9aa8)
 
-### Key Points:
-- Visualizes **transaction activity and asset information** for various games within the web3 ecosystem.
-- This allows users to **easily check rankings and asset statuses** for each game, while also engaging them with airdrop events.
+### User flow:
+1. Web3 Login
+  - Users log in to web3 by connecting their wallet (MetaMask, Coinbase, etc.).
+2. NFT Creation
+  - Creators use the "Create" feature to generate their own NFTs.
+3. Authentication and Exposure
+  - If creators want their NFTs displayed at the top of the main screen, they authenticate their credibility using World ID.
+4. NFT Purchase
+  - General users select and purchase the created NFTs.
+5. NFT Resale
+  - If they wish to sell the NFTs, they can list them for resale on the platform.
+6. Automatic Listing
+  - When the generated NFTs reach the set trading threshold within the platform, they are automatically listed on an NFT DEX like Uniswap for trading.
 
 ---
 ### Build Tools
@@ -65,10 +75,8 @@ We formed a team together by recruiting team members directly from the Discord c
 - Not yet
 
 ---
-### Reason for falling (Feedback from Zetta Block judges):
-- The idea is solid: analytics is what drives the ops of a game and on-chain data is the foundation of GameFi. Suirang provides the insights of Sui GameFi activities.
-- It has a workable demo in such a short time, which really stands out from most of other projects that are either from existing projects or providing PPTs only
-- It leverages on Zettablock's realtime data APIs to bring values to the decision-making for all the participants in the ecosystem
+### Reason for falling (Feedback from ETHGlobal judges):
+- Not yet
 
 ---
 ### Areas for improvement:

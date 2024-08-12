@@ -1,51 +1,56 @@
 # Superhack 2024
+![스크린샷_12-8-2024_141419_](https://github.com/user-attachments/assets/4a4c5e85-f675-4f96-b267-58cab8cfbedc)
 
-
-## Review of participation in the 11 hackathon.
+## Review of participation in the 13 hackathon.
 
 ## Contents
-- [Github repo](https://github.com/pjhnocegood/Suirang)
-- [Demo Site](http://13.125.79.9:3001/dashboard)
-- [Swagger API](http://13.125.79.9:3300/api)
+- [Github repo](https://github.com/alexsrebernic/mintory)
+- [Demo Site](https://mintory.vercel.app/)
+- [Twitter](https://x.com/mintorydotfun)
 
 ### Overview:
-Suirang aims to create a comprehensive platform that visualizes transaction activity and asset information for various games within the web3 ecosystem. 
-The platform enables users to easily check rankings and asset statuses for each game, engage with the community, and participate in airdrop events.
+Mintory.fun prioritizes the Optimism ecosystem while also leveraging various ecosystems using the OP Stack, and it also supports the Base ecosystem with a focus on ERC-721 NFTs. We aim to recognize NFTs as assets with ownership value, creating a vibrant and liquid NFT ecosystem. Therefore, our services are designed to enhance NFT engagement and liquidity, allowing general users to explore and become familiar with web3 through fun, interest, and creativity, thereby gaining extensive experience.
 
-✨If you want to see details, go to the [Google Slides](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)
+✨If you want to see details, go to the [Showcase](https://ethglobal.com/showcase/mintory-fwd6i)
 
 ---
 ### Background:
 We formed a team together by recruiting team members directly from the Discord channel and Telegram.
 - Project Manager 1
 - Front-end developer 1
-- Back-end Developer 1
+- Full-stack Developer 1
+- UX/UI Desginer 1
 
 ---
 ### Track:
 
-- *Infrastructure & Tooling*
-- *Advanced Move Features*
-- *Zetta Block*
+- *Optimism*
+- *Worldcoin*
+- *Base*
+- *Pyth*
+- *Blockscout*
 
 ---
 ### Project:
-> **Suirang**
+> **Mintory**
 
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/80a7a6ff-ddaa-4b2a-884f-97c52469a974)
+![New Cover](https://github.com/user-attachments/assets/7de9eb02-de2e-49d6-bb0e-842c1435f0a3)
 
-### Game Rank & Activation Metric
-- Display game popularity ranking and transaction counts to indicate activation status.
+### Easy NFT Creation and Trading:
+- Users can easily create and trade ERC-721 NFTs, learning about NFT creation and trading processes.
 
-### User Rank & Asset Information
-- Provide user rankings and asset holdings information, and encourage participation through airdrop event.
+### Liquidity Pools with Stablecoins:
+- We provide liquidity pools pairing NFTs with USDT or USDC (e.g., NFT 1 : USDT 1), allowing users to buy and sell NFTs at measured prices.
 
-### Game Information & Tip
-- Share user review, guide, and tip about game, and offer event where user can earn reward for contributing information.
+### Automatic NFT DEX Listing:
+- NFTs are automatically listed on NFT DEX (e.g., Uniswap) when trading volume reaches a certain level, benefiting NFT creators with better experience and earnings.
+
+### User Verification Benefits:
+- Verified users receive special benefits, such as their NFTs being displayed prominently at the top of listings. Unverified users can still use the platform but without these benefits.
 
 > **Architecture**
 
-![image](https://github.com/Joseph-hackathon/hackathon/assets/144579614/a0ce5b55-cd4f-4135-86e7-f6a881890e1b)
+![image](https://github.com/user-attachments/assets/84e47de7-c004-468f-87c4-000079aa9aa8)
 
 ### Key Points:
 - Visualizes **transaction activity and asset information** for various games within the web3 ecosystem.
@@ -57,7 +62,7 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Result:
-- Zetta Block: 🥇 1st Place
+- Not yet
 
 ---
 ### Reason for falling (Feedback from Zetta Block judges):
@@ -88,12 +93,9 @@ We formed a team together by recruiting team members directly from the Discord c
 
 - Ideation
 - Planning
-- Prototype (Sketch)
-![image](https://github.com/user-attachments/assets/f9454084-9746-4948-a712-d751d0e45a30)
-
-- Research about sui games
-- Analysis about sui game metadata in contract
+- Research about referrence
+- Determine development priorities and organize strategic sponsor tracks
 - Checek the Schedule
-- Presentation
-- Create the Architecture
-- Summary for the meeting reports & Sui overflow contents
+- Create the social account and post
+- Make the Architecture
+- Summary for the meeting reports & ETHGlobal contents

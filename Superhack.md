@@ -1,7 +1,7 @@
 # Superhack 2024
 ![스크린샷_12-8-2024_141419_](https://github.com/user-attachments/assets/4a4c5e85-f675-4f96-b267-58cab8cfbedc)
 
-## Review of participation in the 13 hackathon.
+## Review of participation in the 15 hackathon.
 
 ## Contents
 - [Github repo](https://github.com/alexsrebernic/mintory)

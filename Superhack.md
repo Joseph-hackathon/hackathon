@@ -80,9 +80,10 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Areas for improvement:
-1) Among the game metadata values included in the contract, if the value that can be used as "Feature" had been specifically set, the developers could have proceeded with the development more conveniently, but it was a pity that I could not set the value specifically.
-2) There was a lack of information and study on the mechanisms for Sui smart contracts and the metadata values included.
-3) English presentation required
+1) I was unable to complete the demo video until 5 minutes before the submission deadline, so the quality of the demo video was a bit lacking at the end.
+2) Development continued until 10 minutes before the submission deadline, and the same situation as above occurred. It was unfortunate that I did not manage the schedule properly.
+3) 2-3 days before submission, an issue occurred due to the version of the AMM code, which is automatically listed on Uniswap, one of the core functions of our platform, and integration and testing were not possible. So, it was unfortunate that this part was only expressed in roadmap format and could not be shown in this demo. (We should have checked and monitored our core functional areas with some priority, but I think this situation occurred because we failed to check them in advance.)
+4) English presentation required
 
 ---
 ### Positive aspects:

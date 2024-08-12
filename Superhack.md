@@ -54,17 +54,17 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ### User flow:
 1. Web3 Login
-  - Users log in to web3 by connecting their wallet (MetaMask, Coinbase, etc.).
+   - Users log in to web3 by connecting their wallet (MetaMask, Coinbase, etc.).
 2. NFT Creation
-  - Creators use the "Create" feature to generate their own NFTs.
+   - Creators use the "Create" feature to generate their own NFTs.
 3. Authentication and Exposure
-  - If creators want their NFTs displayed at the top of the main screen, they authenticate their credibility using World ID.
+   - If creators want their NFTs displayed at the top of the main screen, they authenticate their credibility using World ID.
 4. NFT Purchase
-  - General users select and purchase the created NFTs.
+   - General users select and purchase the created NFTs.
 5. NFT Resale
-  - If they wish to sell the NFTs, they can list them for resale on the platform.
+   - If they wish to sell the NFTs, they can list them for resale on the platform.
 6. Automatic Listing
-  - When the generated NFTs reach the set trading threshold within the platform, they are automatically listed on an NFT DEX like Uniswap for trading.
+   - When the generated NFTs reach the set trading threshold within the platform, they are automatically listed on an NFT DEX like Uniswap for trading.
 
 ---
 ### Build Tools

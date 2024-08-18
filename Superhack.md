@@ -72,7 +72,7 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Result:
-- Not yet
+- Worldcoin - Pool Prize
 
 ---
 ### Reason for falling (Feedback from ETHGlobal judges):

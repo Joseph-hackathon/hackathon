@@ -8,7 +8,8 @@
 - [Pitch Deck](https://drive.google.com/file/d/10VPKheYaQZMI3irpoz2xKe92JPURnooq/view?usp=sharing)
 
 ### Overview:
-Mintory.fun prioritizes the Optimism ecosystem while also leveraging various ecosystems using the OP Stack, and it also supports the Base ecosystem with a focus on ERC-721 NFTs. We aim to recognize NFTs as assets with ownership value, creating a vibrant and liquid NFT ecosystem. Therefore, our services are designed to enhance NFT engagement and liquidity, allowing general users to explore and become familiar with web3 through fun, interest, and creativity, thereby gaining extensive experience.
+This platform could become an essential tool in the blockchain ecosystem, enhancing the stability and trustworthiness of blockchain technology. 
+By ensuring the safe use of cryptocurrencies and smart contracts, it contributes to the overall growth and development of the ecosystem.
 
 ✨If you want to see details, go to the [Pitch Deck](https://drive.google.com/file/d/10VPKheYaQZMI3irpoz2xKe92JPURnooq/view?usp=sharing)
 
@@ -53,21 +54,20 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Areas for improvement:
-1) I was unable to complete the demo video until 5 minutes before the submission deadline, so the quality of the demo video was a bit lacking at the end.
-2) Development continued until 10 minutes before the submission deadline, and the same situation as above occurred. It was unfortunate that I did not manage the schedule properly.
-3) 2-3 days before submission, an issue occurred due to the version of the AMM code, which is automatically listed on Uniswap, one of the core functions of our platform, and integration and testing were not possible. So, it was unfortunate that this part was only expressed in roadmap format and could not be shown in this demo. (We should have checked and monitored our core functional areas with some priority, but I think this situation occurred because we failed to check them in advance.)
-4) English presentation required
+1) Whenever I participate in any hackathon, I continue developing until 1 hour before the final submission deadline and submit it 5 or 3 minutes before the deadline. I think this is largely my fault as a project manager who cannot manage the schedule properly. (The reason for developing before the deadline is to complete it perfectly or because there are deficiencies in the demo platform, but I think that if you figure this out in advance according to the schedule and fix it quickly, you can submit it with enough leisure.)
+2) Because the front-end developer did not proceed with development without contact, there were not enough developers to develop the front-end. I knew this, but I think the problem of neglecting it is a big problem for me as a project manager. So, although both the backend and AI model were perfect, there was no frontend part that could run an actual demo, so there may have been things that seemed very incomplete. (If the developer did not contact you during the hackathon period, we made a bold decision and hired a new frontend developer. I think that it is necessary to find them and immediately put them into the project. I think this is also one of the roles of the project manager in order to fill in all empty spaces in the project within the period and produce good results.)
+3) English presentation required
 
 ---
 ### Positive aspects:
-- The submission time passed, but fortunately, the video was uploaded and the submission was completed successfully. Also, because the organizer gave us a little more time, we were able to edit the video and re-upload it as a demo video with slightly better quality.
-- Even while all of our team members were doing their own work and taking exams, we were able to come up with a platform called Mintory because they developed the platform, followed me closely, and did their best to develop it in the direction I wanted.
-- Although we were not able to integrate many sponsor tracks, our development team members were able to lead the way by researching things that fit the sponsor track and directly making suggestions, while also providing new ideas, such as using World ID and Pyth oracle to fetch prices. It was really nice to be able to develop our platform into a more diverse and highly reliable platform.
+- Since the AI ​​engineer did not know much about blockchain, he had to study in parallel while developing the model. However, she developed a very good AI model by continuing to study until the end, understanding it on her own, and communicating with developers who knew smart contract code among our team members.
+Therefore, during the local demo, an amazing project emerged, so it was great to think that the AI ​​model could be considered a model to the extent that it could be used not only for this hackathon but also for actual projects.
+- Since there was no front end, the demo platform lacked quality and was unable to be fully functionally integrated, so the submission was closed. However, the rest of the team tried to integrate it until the end, and the front end was also briefly developed and uploaded to the server, so a demo link was created and an image was able to show what kind of platform it was.
+- Since this hackathon was a Hedera hackathon, there was a lack of edge points on how to use Hedera, but the team members thought together and used a message in a place called Topic within the Hedera contract to provide the results of the analysis to our platform. The idea was to store the data in on-chain storage by putting it in a part. So, we were able to utilize this idea by linking it to a business model on our platform.
 
 ---
 ### Things I learned from the hackathon:
-- Since I only knew the Sui ecosystem as a concept as a network specialized for games, I was thinking of an idea as a game-related project, so while doing research with the development team members, I was checking the smart contract for transactions that occurred in Sui Explorer. I was very surprised to see that it contained methods (or functions) related to game metadata, and this was the first time I learned about it.
-- The function called “Package ID” within the contract allows us to know that the game contains various metadata for various rankings, levels, characters, etc. and is related to game-related data, so we can filter data based on “Package ID” to filter the game. Metadata values ​​are displayed on the front.
+
 
 ---
 ### What i did

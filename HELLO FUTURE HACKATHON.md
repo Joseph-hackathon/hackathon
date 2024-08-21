@@ -40,6 +40,10 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ![image](https://github.com/user-attachments/assets/389e82b1-73f0-4cb2-a91a-c76f1c9ee617)
 
+1. **Security Analysis**: Automatically identifying vulnerabilities and potential security issues in smart contract code, distinguishing between scam contracts and legitimate ones.
+2. **Code Enhancement**: Upgrading the code to improve security, efficiency, and compliance with best practices.
+3. **Interoperability Conversion**: Converting smart contracts written in one language (e.g., Solidity for Ethereum) to another (e.g., for Hedera Hashgraph) to enable deployment across different blockchain platforms.
+4. **Feedback and Reporting**: Providing detailed reports on the issues found, the improvements made, and the rationale behind changes.
 ---
 ### Build Tools
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>

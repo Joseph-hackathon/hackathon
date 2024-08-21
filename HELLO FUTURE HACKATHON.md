@@ -1,6 +1,6 @@
 # HELLO FUTURE HACKATHON
 
-## Review of participation in the 16 hackathon.
+`Review of participation in the 16 hackathon.`
 
 ## Contents
 - [Github repo](https://github.com/Julius-Ky/hedera-smart-various)
@@ -33,12 +33,7 @@ We formed a team together by recruiting team members directly from the Discord c
 
 > **Smart Various**
 
-Smart Various is an AI-powered platform designed to enhance the security and quality of Solidity smart contracts. 
-Utilizing Reinforcement Learning and Deep Q-Network (DQN), it analyzes, improves, and strengthens contracts. 
-Key features include preventive security checks, automated corrections, detailed reporting, and a user-friendly interface. 
-The platform supports on-chain data storage and AI model training through the Hedera network. 
-It offers a free preliminary self-audit service to help developers address issues early and streamline final professional audits, ensuring the reliability and learning capability of Web3 applications. 
-Stored data is provided in B2B and B2C formats via API and can be utilized as a security solution.
+**Smart Various** is an AI-powered platform designed to enhance the security and quality of Solidity smart contracts. Utilizing `Reinforcement Learning` and `Deep Q-Network (DQN)` it analyzes, improves, and strengthens contracts. Key features include preventive security checks, automated corrections, detailed reporting, and a user-friendly interface. The platform supports on-chain data storage and AI model training through the `Hedera network`. It offers a free preliminary self-audit service to help developers address issues early and streamline final professional audits, ensuring the reliability and learning capability of Web3 applications. Stored data is provided in B2B and B2C formats via API and can be utilized as a security solution.
 
 > **Architecture**
 

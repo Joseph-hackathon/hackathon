@@ -76,7 +76,39 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Reason for falling (Feedback from ETHGlobal judges):
-- Not yet
+**Audio Issue:**
+- First, it's crucial to address the audio problem in the second half of the video.
+
+**Project Overview:**
+- Start with a clear, concise explanation of what Mintory.fun is:
+   - "Mintory.fun is a platform designed to make NFT creation, trading, and engagement more accessible and fun within the Optimism and Base ecosystems. Our goal is to foster interest in NFTs and encourage their use over traditional tokens in the web3 space."
+
+**Key Features Demonstration:**
+- Highlight and demonstrate these key features:
+   a) Easy NFT Creation: Show the process of creating an ERC-721 NFT step-by-step.
+   b) Liquidity Pools: Demonstrate how users can trade NFTs using stablecoin pairs.
+   c) World ID Authentication: Show the verification process and explain the benefits for verified users.
+   d) NFT Listing: Display how verified creators' NFTs appear at the top of listings.
+   e) Real-time Transactions: Use Block Scout to show real-time transaction tracking.
+
+**Technology Stack:**
+- Briefly explain how you're leveraging key technologies:
+   - Optimism and OP Stack for scalability and interoperability
+   - World ID for user verification
+   - Base for enhanced credibility
+   - Block Scout for transaction transparency
+   - Pyth for real-time ETH price data
+
+**Future Development:**
+- Mention upcoming features like:
+   - Automatic NFT DEX listing on Uniswap
+   - NFT collection creation options
+
+**Interactive Elements:**
+- If possible, include interactive elements in your demo:
+   - Live NFT creation
+   - Simulated trading in liquidity pools
+   - Real-time transaction viewing
 
 ---
 ### Areas for improvement:

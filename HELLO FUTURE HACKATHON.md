@@ -1,6 +1,6 @@
 # HELLO FUTURE HACKATHON
 
-`Review of participation in the 16 hackathon.`
+`Review of participation in the 17 hackathon.`
 
 ## Contents
 - [Github repo](https://github.com/Julius-Ky/hedera-smart-various)

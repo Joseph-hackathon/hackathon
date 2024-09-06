@@ -5,9 +5,7 @@
 `Review of participation in the 16 hackathon.`
 
 ## Contents
-#### [Github repo](https://github.com/hackathemy/orderwrap)
-#### [Demo Site](https://orderwrap.shop/)
-#### [Pitch Deck](https://drive.google.com/file/d/1sJvtGBTozOvj9O8paR9k-O1Jycn--xL_/view?usp=sharing)
+#### [Github repo](https://github.com/hackathemy/orderwrap) | [Demo Site](https://orderwrap.shop/) | [Pitch Deck](https://drive.google.com/file/d/1sJvtGBTozOvj9O8paR9k-O1Jycn--xL_/view?usp=sharing)
 
 ### Overview:
 Without the need for a separate order device, Easy, convenient, fast and diverse payments, and easy & simple store, menu, and order, settle manage, all with just a mobile & blockchain!

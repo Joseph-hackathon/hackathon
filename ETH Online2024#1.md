@@ -1,49 +1,56 @@
+![image](https://github.com/user-attachments/assets/60da6a1f-ccf3-48ff-818d-e362ff12b915)
+
 # ETH Online 2024
 
 `Review of participation in the 18 hackathon.`
 
 ## Contents
-- [Github repo](https://github.com/Julius-Ky/hedera-smart-various)
-- [Demo Site](https://smart-various-frontend.vercel.app/)
-- [Pitch Deck](https://drive.google.com/file/d/10VPKheYaQZMI3irpoz2xKe92JPURnooq/view?usp=sharing)
+- [Github repo](https://github.com/AeroDump/contracts) | [Demo Site](https://aerodump.vercel.app/)
 
 ### Overview:
-This platform could become an essential tool in the blockchain ecosystem, enhancing the stability and trustworthiness of blockchain technology. 
-By ensuring the safe use of cryptocurrencies and smart contracts, it contributes to the overall growth and development of the ecosystem.
+Cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks.
 
-✨If you want to see details, go to the [Pitch Deck](https://drive.google.com/file/d/10VPKheYaQZMI3irpoz2xKe92JPURnooq/view?usp=sharing)
+✨If you want to see details, go to the [Showcase](https://ethglobal.com/showcase/aerodump-4z48m)
 
 ---
 ### Background:
 We formed a team together by recruiting team members directly from the Discord channel and Telegram.
 - Project Manager 1
-- AI Engineer 1
-- Software Engineer 1
-- Reseacher 1
+- Smart Contract 2
+- Software Engineer 2
 
 ---
 ### Track:
 
-- *AI*
-- *Advanced Open Track*
-- *Beginner Open Track*
+- *LayerZero*
+- *Sign Protocol*
+- *Chainlink*
+- *Web3Auth*
 
 ---
 ### Project:
-![Logo- Smart various](https://github.com/user-attachments/assets/1fb3afdb-382a-4b57-98da-9b805737b6d3)
+![image](https://github.com/user-attachments/assets/e9305949-4090-4ca0-87b8-1d2b3b73c27c)
 
-> **Smart Various**
+> **AeroDump**
 
-**Smart Various** is an AI-powered platform designed to enhance the security and quality of Solidity smart contracts. Utilizing `Reinforcement Learning` and `Deep Q-Network (DQN)` it analyzes, improves, and strengthens contracts. Key features include preventive security checks, automated corrections, detailed reporting, and a user-friendly interface. The platform supports on-chain data storage and AI model training through the `Hedera network`. It offers a free preliminary self-audit service to help developers address issues early and streamline final professional audits, ensuring the reliability and learning capability of Web3 applications. Stored data is provided in B2B and B2C formats via API and can be utilized as a security solution.
+`AeroDump` is a cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks. Built to support airdrops, marketing event rewards, and large-scale token transfers, AeroDump leverages the power of automation, cross-chain interoperability, and secure vaults to provide an efficient, hands-free solution for bulk token distribution.
 
 > **Architecture**
 
-![image](https://github.com/user-attachments/assets/389e82b1-73f0-4cb2-a91a-c76f1c9ee617)
+![image](https://github.com/user-attachments/assets/cf062c58-ea84-4724-aa71-c8107afda6ef)
 
-1. **Security Analysis**: Automatically identifying vulnerabilities and potential security issues in smart contract code, distinguishing between scam contracts and legitimate ones.
-2. **Code Enhancement**: Upgrading the code to improve security, efficiency, and compliance with best practices.
-3. **Interoperability Conversion**: Converting smart contracts written in one language (e.g., Solidity for Ethereum) to another (e.g., for Hedera Hashgraph) to enable deployment across different blockchain platforms.
-4. **Feedback and Reporting**: Providing detailed reports on the issues found, the improvements made, and the rationale behind changes.
+> **User Journey**
+```mermaid
+graph TD;
+    Sign-In/Sign-Up-->Register-Project;
+    Register-Project-->Upload-CSV;
+    Register-Project-->Fill-the-Text;
+    Upload-CSV-->Deposit-Vault;
+    Fill-the-Text-->Deposit-Vault;
+    Deposit-Vault-->Auto-Distribution;
+    Auto-Distribution-->Check-History;
+```
+
 ---
 ### Build Tools
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=nextdotjs&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
@@ -79,10 +86,8 @@ Therefore, during the local demo, an amazing project emerged, so it was great to
 
 - Ideation
 - Planning
-- Research about market, competitors,referrence
+- Research about market, competitors, referrence
 - Determine development priorities and organize strategic sponsor tracks
 - Checek the Schedule
-- Make the Pitchdeck
-  - Business model, competitor comparison, positioning map, configuration, etc.
-- Make the Architecture
+- Make the Architecture | User Flow
 - Summary for the meeting reports & Submmit contents

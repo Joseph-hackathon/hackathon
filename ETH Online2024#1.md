@@ -3,16 +3,15 @@
 # ETH Online 2024
 `Review of participation in the 18 hackathon.`
 
-## Contents
-- [Github repo](https://github.com/AeroDump/contracts) | [Demo Site](https://aerodump.vercel.app/)
+[Github repo](https://github.com/AeroDump/contracts) | [Demo Site](https://aerodump.vercel.app/)
 
-### Overview
-Cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks.
+## Overview
+- Cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks.
 
-✨If you want to see details, go to the [Showcase](https://ethglobal.com/showcase/aerodump-4z48m)
+> ✨If you want to see details, go to the [Showcase](https://ethglobal.com/showcase/aerodump-4z48m)
 
-### Background
-We formed a team together by recruiting team members directly from the Discord channel and Telegram.
+### Team
+We formed a team together by recruiting team members directly from the Discord channel.
 - Project Manager 1
 - Smart Contract 2
 - Software Engineer 2
@@ -33,18 +32,18 @@ We formed a team together by recruiting team members directly from the Discord c
 - *Chainlink*
 - *Web3Auth*
 
-### Project
+## Project
 ![image](https://github.com/user-attachments/assets/e9305949-4090-4ca0-87b8-1d2b3b73c27c)
 
-> **AeroDump**
+### AeroDump
 
 `AeroDump` is a cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks. Built to support airdrops, marketing event rewards, and large-scale token transfers, AeroDump leverages the power of automation, cross-chain interoperability, and secure vaults to provide an efficient, hands-free solution for bulk token distribution.
 
-> **Architecture**
+### Architecture
 
 ![image](https://github.com/user-attachments/assets/cf062c58-ea84-4724-aa71-c8107afda6ef)
 
-> **User Journey**
+### User Journey
 ```mermaid
 graph TD;
     Sign-In/Sign-Up-->Register-Project;

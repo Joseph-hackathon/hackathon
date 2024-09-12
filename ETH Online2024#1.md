@@ -71,10 +71,11 @@ graph TD;
 
 ---
 ### Positive aspects:
-- Since the AI ​​engineer did not know much about blockchain, he had to study in parallel while developing the model. However, she developed a very good AI model by continuing to study until the end, understanding it on her own, and communicating with developers who knew smart contract code among our team members.
-Therefore, during the local demo, an amazing project emerged, so it was great to think that the AI ​​model could be considered a model to the extent that it could be used not only for this hackathon but also for actual projects.
-- Since there was no front end, the demo platform lacked quality and was unable to be fully functionally integrated, so the submission was closed. However, the rest of the team tried to integrate it until the end, and the front end was also briefly developed and uploaded to the server, so a demo link was created and an image was able to show what kind of platform it was.
-- Since this hackathon was a Hedera hackathon, there was a lack of edge points on how to use Hedera, but the team members thought together and used a message in a place called Topic within the Hedera contract to provide the results of the analysis to our platform. The idea was to store the data in on-chain storage by putting it in a part. So, we were able to utilize this idea by linking it to a business model on our platform.
+- When presenting the initial idea, I simply expressed it as text, and the team members caught on to it well, found it interesting and thought it was a good idea, and I felt it was really cool and amazing that they actually implemented it.
+> initial idea
+
+![image](https://github.com/user-attachments/assets/9c318a59-20cf-44f9-8078-25b754aaaea9)
+
 
 ---
 ### Things I learned from the hackathon:

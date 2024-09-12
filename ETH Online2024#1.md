@@ -78,7 +78,8 @@ Therefore, during the local demo, an amazing project emerged, so it was great to
 
 ---
 ### Things I learned from the hackathon:
-
+- I tried to provide a multi-chain service using Chainlink's CCIP, but a development team member did research and found that Layer Zero also provides CCIP, so since we are using the vault service at Layer Zero anyway, I suggested that we also utilize CCIP as well, so Layer Zero I found out that it also provides CCIP functionality. (After thinking about it, I thought that Layer Zero is also a bridge service and would provide sufficient CCIP functions.)
+- I learned from the development team members that this logic is quite tricky and difficult when using Chainlink automation to automate the contract code so that the contract can be automatically executed in the Layer Zero vault and distributed to the wallets of desired users. It is done. Simply, since the function called Chainlink Automation is specialized for automation, I thought that it would be possible to just add the contract address to be automated within a few lines of code, but it was not true and was only shared that it was a little more complicated, so I first learned about it.
 
 ---
 ### What i did

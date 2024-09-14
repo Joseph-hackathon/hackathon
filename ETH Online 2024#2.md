@@ -69,7 +69,7 @@ graph TD;
 ```
 
 ### Result
-- Not yet
+- Hedera - Hedera-Native Services Starter Bounty
 
 ### Reason for falling (Feedback from ETHGlobal judges)
 - Not yet

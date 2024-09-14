@@ -56,7 +56,8 @@ graph TD;
 ```
 
 ### Result
-- Not yet
+- LayerZero - Most Innovative Omnichain Solution Best Developer Feedback
+- Sign Protocol - Sign Everything Pool Prize
 
 ### Reason for falling (Feedback from ETHGlobal judges)
 - Not yet

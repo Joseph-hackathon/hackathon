@@ -3,9 +3,7 @@
 `Review of participation in the 17 hackathon.`
 
 ## Contents
-- [Github repo](https://github.com/Julius-Ky/hedera-smart-various)
-- [Demo Site](https://smart-various-frontend.vercel.app/)
-- [Pitch Deck](https://drive.google.com/file/d/10VPKheYaQZMI3irpoz2xKe92JPURnooq/view?usp=sharing)
+[Github repo](https://github.com/Julius-Ky/hedera-smart-various) | [Demo Site](https://smart-various-frontend.vercel.app/) | [Pitch Deck](https://drive.google.com/file/d/10VPKheYaQZMI3irpoz2xKe92JPURnooq/view?usp=sharing)
 
 ### Overview:
 This platform could become an essential tool in the blockchain ecosystem, enhancing the stability and trustworthiness of blockchain technology. 

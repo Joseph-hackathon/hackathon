@@ -50,11 +50,13 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ---
 ### Result:
-- Not yet
+- Lose
 
 ---
-### Reason for falling (Feedback from ETHGlobal judges):
-- Not yet
+### Reason for falling (Feedback from Angelhack judges):
+- Interesting project that can help the Hedera Ecosystem grow, even if this is not Hedera specific (any EVM-compatible network can benefit from this project). Nice presentation. However, there is a recurrent problem with these kind of tools. That is, the confidence in the report, even more when it’s automated. This is because a smart contract would rely on this outcome to either fix a problem or deploy to mainnet where possibly huge amounts on money are at stake., Even though the use of Hedera is relatively light, the AI use case is very good and I think that there is a wide application for this in other audit contexts.
+
+We hope you continue to build on the experience, connections, and knowledge you gained during the hackathon. Keep learning, keep building, and keep pushing yourselves. We're excited to see what amazing things you create next!
 
 ---
 ### Areas for improvement:

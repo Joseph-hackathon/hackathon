@@ -15,14 +15,15 @@ Our goal is to create a space where creativity thrives through `real-time commun
 We formed a team together by recruiting team members directly from the Discord channel.
 - Project Manager 1
 - Smart Contract 1
-- Front-edn Developer 1
+- Front-end Developer 1
 
 ### What i did
 👨🏼‍💻 Role: Product & Project Manager (PM)
 - Planning
 - Research about market, competitors, referrence
 - Checek the Schedule
-- Make the Architecture | User Flow | ProtoType
+- Make the ProtoType | Demo video
+- Presentation
 - Summary for the meeting reports & Submmit contents
 
 ### Track
@@ -52,7 +53,7 @@ We formed a team together by recruiting team members directly from the Discord c
 ### Result
 - Not yet
 
-### Reason for falling (Feedback from ETHGlobal judges)
+### Reason for falling (Feedback from Aptos judges)
 - Not yet
 
 ### Areas for improvement

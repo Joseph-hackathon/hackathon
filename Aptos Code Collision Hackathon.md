@@ -6,74 +6,62 @@
 [Github repo](https://github.com/devsisingh/code-collision) | [Demo Site](https://sharetos.vercel.app/) | [Video](https://youtu.be/9aRMxZA_bqw)
 
 ## Overview
-- Cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks.
+- **ShareTos** is an innovative Web3 platform designed to enable users to share, `vote`, and collaborate on groundbreaking ideas in a decentralized environment. 
+Our goal is to create a space where creativity thrives through `real-time communication`, transparent development, and `community-driven` collaboration.
 
-> ✨If you want to see details, go to the [Showcase](https://ethglobal.com/showcase/aerodump-4z48m)
+> ✨If you want to see details, go to the [Showcase](https://dorahacks.io/buidl/15305)
 
 ### Team
 We formed a team together by recruiting team members directly from the Discord channel.
 - Project Manager 1
-- Smart Contract 2
-- Software Engineer 2
+- Smart Contract 1
+- Front-edn Developer 1
 
 ### What i did
 👨🏼‍💻 Role: Product & Project Manager (PM)
-- Ideation
 - Planning
 - Research about market, competitors, referrence
-- Determine development priorities and organize strategic sponsor tracks
 - Checek the Schedule
-- Make the Architecture | User Flow
+- Make the Architecture | User Flow | ProtoType
 - Summary for the meeting reports & Submmit contents
 
 ### Track
-- *LayerZero*
-- *Sign Protocol*
-- *Chainlink*
-- *Web3Auth*
+- *The Unexpected*
+- *Best Public Goods*
 
 ## Project
-![image](https://github.com/user-attachments/assets/e9305949-4090-4ca0-87b8-1d2b3b73c27c)
+![image](https://github.com/user-attachments/assets/a76a4896-78a5-427b-966a-b6018f7b56c1)
+<br></br>
+### Prototype (Layout)
+> Before
 
-### AeroDump
+![image](https://github.com/user-attachments/assets/df70d9fe-7385-42c6-a55b-8e94ce7851b6)
 
-`AeroDump` is a cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple blockchain networks. Built to support airdrops, marketing event rewards, and large-scale token transfers, AeroDump leverages the power of automation, cross-chain interoperability, and secure vaults to provide an efficient, hands-free solution for bulk token distribution.
+> After - Move the live chat function from the main page to the idea detail page.
 
-### Architecture
-
-![image](https://github.com/user-attachments/assets/cf062c58-ea84-4724-aa71-c8107afda6ef)
+![Group 2](https://github.com/user-attachments/assets/f19e2c98-e764-4af5-8a13-20ef8836a263)
 
 ### User Journey
-```mermaid
-graph TD;
-    Sign-In/Sign-Up-->Register-Project;
-    Register-Project-->Upload-CSV;
-    Register-Project-->Fill-the-Text;
-    Upload-CSV-->Deposit-Vault;
-    Fill-the-Text-->Deposit-Vault;
-    Deposit-Vault-->Auto-Distribution;
-    Auto-Distribution-->Check-History;
-```
+
+- Users land on the dashboard and see all ideas fetched from the backend API.
+- To submit an idea or upvote an idea, users need to connect their wallet, which results in the creation of a user account in the database.
+- Once an idea is submitted, it is added to the database. The database ID is then submitted to the smart contract with a vote count of 0.
+- Users can upgrade or edit their ideas, and only database changes are made.
+- A backend process can be run to fetch data from the smart contract and update the idea vote count.
 
 ### Result
-- LayerZero - Most Innovative Omnichain Solution Best Developer Feedback
-- Sign Protocol - Sign Everything Pool Prize
+- Not yet
 
 ### Reason for falling (Feedback from ETHGlobal judges)
 - Not yet
 
 ### Areas for improvement
-1) Overall, AeroDump's service is a service that includes detailed development elements and functions. Therefore, we exchange opinions on the requirements for each sponsor track we will submit, what technology we will use and how we will do it, the current status of the project, how users use the platform, and how the platform should operate. I had to share my opinion with the development team members about this, but since I lack a bit of knowledge in the technical area, it was a bit difficult to talk about it, and there were situations where we couldn't understand each other, which was disappointing. (However, in this regard, I tried to understand what the developer and project manager was talking about by asking an experienced developer who was in the middle of me to understand what he was saying and what he wanted. Afterwards, we were able to further develop the platform's functions and operating principles by gaining sufficient understanding with the developer.)
-2) In situations like the one above, I, as the project manager, should have played that role, but instead I asked for help from the development team members and received it, so I felt a little disappointed with myself and felt like I was still lacking.
-3) English presentation required
+1) There was nothing lacking or disappointing about this hackathon. Overall, the development team members responded well and followed along well. In addition, we took charge of each task professionally, identified and completed them, and perfectly implemented the MVP version we were aiming for within the period.
+2) English presentation required
 
 ### Positive aspects
-- When presenting the initial idea, I simply expressed it as text, and the team members caught on to it well, found it interesting and thought it was a good idea, and I felt it was really cool and amazing that they actually implemented it.
-> initial idea
-
-![image](https://github.com/user-attachments/assets/9c318a59-20cf-44f9-8078-25b754aaaea9)
-
+- It was very nice that I simply created a prototype layout and shared it with them, and they developed the front page perfectly based on that. Also, there were no complaints or complaints about this, and people comfortably shared their opinions that something was lacking or would be good if it were modified, and added additional opinions about why this was necessary, so it was easier to understand and accept it.
 
 ### Things I learned from the hackathon
-- I tried to provide a multi-chain service using Chainlink's CCIP, but a development team member did research and found that Layer Zero also provides CCIP, so since we are using the vault service at Layer Zero anyway, I suggested that we also utilize CCIP as well, so Layer Zero I found out that it also provides CCIP functionality. (After thinking about it, I thought that Layer Zero is also a bridge service and would provide sufficient CCIP functions.)
-- I learned from the development team members that this logic is quite tricky and difficult when using Chainlink automation to automate the contract code so that the contract can be automatically executed in the Layer Zero vault and distributed to the wallets of desired users. It is done. Simply, since the function called Chainlink Automation is specialized for automation, I thought that it would be possible to just add the contract address to be automated within a few lines of code, but it was not true and was only shared that it was a little more complicated, so I first learned about it.
+- I realized once again that it would be easier to work on the front-end if you could create a simple prototype (layout) and share it. I think it's because it's faster and easier to understand if the planner expresses what kind of screen they want in a drawing and shares it.
+- I first learned that there was a platform service called `Superteam` in the Solana ecosystem that shared ideas in this web3 format. I didn't know that this platform was actually commercialized, but I was surprised that it already existed. I learned that there are so many different ideas in the current web3 market that are already commercialized but not yet known, and I thought and learned that I should do more market research.

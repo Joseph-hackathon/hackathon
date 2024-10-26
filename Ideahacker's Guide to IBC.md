@@ -29,16 +29,36 @@ We formed a team together by recruiting team members directly from the Discord c
 - *Wild Card*
 
 ## Project
-![image](https://github.com/user-attachments/assets/a76a4896-78a5-427b-966a-b6018f7b56c1)
+
 <br></br>
 
-### User Journey
+### Diagran
+```mermaid
+sequenceDiagram
+    participant Client
+    participant Server
+    participant IBC_Network
+    participant Relayer
+    participant SmartContract
 
-- Users land on the dashboard and see all ideas fetched from the backend API.
-- To submit an idea or upvote an idea, users need to connect their wallet, which results in the creation of a user account in the database.
-- Once an idea is submitted, it is added to the database. The database ID is then submitted to the smart contract with a vote count of 0.
-- Users can upgrade or edit their ideas, and only database changes are made.
-- A backend process can be run to fetch data from the smart contract and update the idea vote count.
+    Client ->> Server: HTTPi request
+    Server ->> IBC_Network: Query
+    IBC_Network ->> Relayer: Control Account
+    Relayer ->> SmartContract: Verify
+    SmartContract -->> Relayer: Callback (Result)
+    Relayer -->> IBC_Network: MsgAcknowledgement
+    IBC_Network -->> Server: Verification response
+    Server ->> IBC_Network: Callback Session Key
+    IBC_Network ->> Server: Generate Session Key
+    SmartContract -->> IBC_Network: Callback (Return)
+    IBC_Network -->> Relayer: Session key
+    Relayer -->> Server: Callback (Return session key)
+    Server -->> Client: Encrypted Session Key
+    Client ->> Client: Decrypt Session Key
+    Client ->> Server: Encrypted Data using Session Key
+    Server ->> Server: Process Request
+    Server -->> Client: Encrypted Response using Session Key
+```
 
 ### Result
 - Not yet

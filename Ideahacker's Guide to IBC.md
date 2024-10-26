@@ -29,10 +29,10 @@ We formed a team together by recruiting team members directly from the Discord c
 - *Wild Card*
 
 ## Project
-
+![image](https://github.com/user-attachments/assets/e4632669-25ba-498f-b137-ec825391d192)
 <br></br>
 
-### Diagran
+### Diagram
 ```mermaid
 sequenceDiagram
     participant Client

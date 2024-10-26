@@ -49,7 +49,7 @@ sequenceDiagram
     Relayer -->> IBC_Network: MsgAcknowledgement
     IBC_Network -->> Server: Verification response
     Server ->> IBC_Network: Callback Session Key
-    IBC_Network ->> Server: Generate Session Key
+    IBC_Network ->> SmartContract: Generate Session Key
     SmartContract -->> IBC_Network: Callback (Return)
     IBC_Network -->> Relayer: Session key
     Relayer -->> Server: Callback (Return session key)

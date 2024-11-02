@@ -6,7 +6,7 @@
 [Demo](https://reception-seven.vercel.app/) | [Pitchdeck](https://drive.google.com/file/d/1gn9eo1JHbGmijGPWTwsq1gkfCLY_8rKp/view?usp=sharing) | [Github](https://github.com/Julius-Ky/reCeption) | [Video](https://youtu.be/puJjyTeLRjY)
 
 ## Overview
-- reCEPTION is an AI-powered security platform that offers functionality similar to reCAPTCHA, providing automated verification solutions for both Web2 and Web3 environments. The project aims to enhance the security and quality of smart contracts and provide automated validation solutions for users and developers.
+**reCEPTION** is an AI-powered security platform that offers functionality similar to reCAPTCHA, providing automated verification solutions for both Web2 and Web3 environments. The project aims to enhance the security and quality of smart contracts and provide automated validation solutions for users and developers.
 
 > ✨If you want to see details, go to the [Devpost](https://devpost.com/software/not-yet-ud294o)
 

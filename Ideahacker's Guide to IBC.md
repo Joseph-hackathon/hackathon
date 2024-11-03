@@ -63,7 +63,7 @@ sequenceDiagram
 ### Result
 - Not yet
 
-### Reason for falling (Feedback from Aptos judges)
+### Reason for falling (Feedback from IBC Protocol judges)
 - Not yet
 
 ### Areas for improvement

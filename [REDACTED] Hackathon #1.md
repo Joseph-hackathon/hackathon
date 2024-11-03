@@ -85,7 +85,7 @@ E-Commerce ->> NEAR: 8. Save contract data (Normal/Abnormal Classification)
 - Not yet
 
 ### Areas for improvement
-1) 
+1) We completed all of the smart contracts and AI models for each part, but in the process of integrating with the front end, there was a problem with the integration of the AI ​​model due to the high usage environment on PCs such as GPUs, so it was unfortunate that it could not be completed as a perfect platform.
 2) English presentation required.
 
 ### Positive aspects

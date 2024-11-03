@@ -81,7 +81,7 @@ E-Commerce ->> NEAR: 8. Save contract data (Normal/Abnormal Classification)
 ### Result
 - Not yet
 
-### Reason for falling (Feedback from Aptos judges)
+### Reason for falling (Feedback from NEAR Protocol judges)
 - Not yet
 
 ### Areas for improvement
@@ -91,7 +91,9 @@ E-Commerce ->> NEAR: 8. Save contract data (Normal/Abnormal Classification)
 4) English presentation required.
 
 ### Positive aspects
-- 
+- With only a few hours left until the submission deadline, there were issues with our platform not being able to integrate with the front end and AI model, but we did not give up and created a pitch deck to explain what our project was and a fully developed AI model. I was fortunate and glad that I was able to record a demo with the flow because I was able to show the code and that it was working properly.
+- Although it was not integrated with the front end, we had developed all of the code for the NEAR smart contract and the AI ​​model that analyzes vulnerabilities, so we had a GitHub repo where we could demonstrate our performance as much as possible within the hackathon period, and our The project was 90% complete, so I was really grateful and happy because there were team members who worked hard and worked hard to develop it.
 
 ### Things I learned from the hackathon
-- 
+- Even in a little over a month, we realized and learned that it is important to minimize the MVP features we want to create as much as possible. 
+- It may be easy as a planner, but in terms of development, I knew that it takes a long time to analyze various aspects such as the integration process and the API linking process, create the architecture, and ensure that the flow operates properly, so I decided to spend a little more time on MVP. I learned that it is also necessary to prepare an MVP only for edge points that can reduce the project to a minimum and maximize the quality and performance of the project.

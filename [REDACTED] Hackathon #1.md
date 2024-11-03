@@ -86,7 +86,9 @@ E-Commerce ->> NEAR: 8. Save contract data (Normal/Abnormal Classification)
 
 ### Areas for improvement
 1) We completed all of the smart contracts and AI models for each part, but in the process of integrating with the front end, there was a problem with the integration of the AI ​​model due to the high usage environment on PCs such as GPUs, so it was unfortunate that it could not be completed as a perfect platform.
-2) English presentation required.
+2) This Near Protocol Hackathon had many sponsored tracks that focused on AI technology, which was the core of this hackathon, but among the sponsored tracks, we used **ZettaBlock** and **Public AI**'s API to import on-chain data and train it in our AI model to model it. We tried to improve and collect and pre-process a lot of data, but there was not enough data related to the vulnerabilities we wanted, and there was a problem integrating the API, so it was disappointing that we could not utilize the sponsor tracks.
+3) Our MVP was to complete all of the API docs page, file upload page, and admin console page, but this MVP was not in a phase that could be completed within the period and had many overloaded functions, so it was difficult to manage these schedules. As a product manager, I was a bit lacking and was disappointed.
+4) English presentation required.
 
 ### Positive aspects
 - 

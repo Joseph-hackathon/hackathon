@@ -27,7 +27,6 @@ We formed a team together by recruiting team members directly from the Discord c
 
 ### Track
 - *Native Track*
-  - Best of AI
   - Best of Chain Abstraction
   - Best tech
   - Honorable Mentions
@@ -43,6 +42,23 @@ We formed a team together by recruiting team members directly from the Discord c
 It aggregates cross-chain data, using NEAR’s chain abstraction to provide a seamless experience for managing assets across networks. 
 Features include real-time game data, a Dapp explorer, and a caching system for efficient data retrieval. 
 With a strong focus on security and privacy through NEAR’s Chain Signatures, io.Side enables gamers, developers, and investors to easily track performance, assets, and trends within the Web3 ecosystem.
+
+### Key Points
+
+**Comprehensive Web3 Game Dashboard:**
+- Our platform goes beyond simply providing game overviews. It offers an in-depth analysis of both on-chain (NFTs, tokens, TVL) and off-chain (rankings, player performance) data, delivering a holistic view of the game ecosystem.
+
+**Real-Time On-Chain Data Visualization:**
+- We provide users with real-time tracking and visualization of token and NFT prices, marketplace activity, and on-chain transactions related to Web3 games. This makes the complex Web3 game economy more accessible and transparent.
+
+**Gamified Analytics:**
+- The platform transforms data analysis into a fun, interactive experience, allowing users to explore game statistics in a way that mimics the competitive and engaging nature of gaming itself.
+
+**Cross-Game Comparison:**
+- For users playing multiple Web3 games, the platform aggregates performance, token holdings, and NFT portfolio data across different games, allowing for seamless comparison and asset management in one place.
+
+**Future Expansion into NFT Marketplaces:**
+- Our platform aims to integrate with NFT marketplaces and expand asset management features, enabling users to efficiently manage all their in-game and out-of-game assets from a single, unified platform.
 
 ### Diagram
 ``` mermaid

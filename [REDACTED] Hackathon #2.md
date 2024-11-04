@@ -86,15 +86,11 @@ sequenceDiagram
 - Not yet
 
 ### Areas for improvement
-1) We completed all of the smart contracts and AI models for each part, but in the process of integrating with the front end, there was a problem with the integration of the AI ​​model due to the high usage environment on PCs such as GPUs, so it was unfortunate that it could not be completed as a perfect platform.
-2) This Near Protocol Hackathon had many sponsored tracks that focused on AI technology, which was the core of this hackathon, but among the sponsored tracks, we used **ZettaBlock** and **Public AI**'s API to import on-chain data and train it in our AI model to model it. We tried to improve and collect and pre-process a lot of data, but there was not enough data related to the vulnerabilities we wanted, and there was a problem integrating the API, so it was disappointing that we could not utilize the sponsor tracks.
-3) Our MVP was to complete all of the API docs page, file upload page, and admin console page, but this MVP was not in a phase that could be completed within the period and had many overloaded functions, so it was difficult to manage these schedules. As a product manager, I was a bit lacking and was disappointed.
-4) English presentation required.
+1) We attempted to collect on-chain data for Near ecosystem games, but there were not many sponsored tracks providing game data. We tried to use Zetta Block, but we could not retrieve data due to API issues. We tried to use public AI, but we had to use an AI agent and it was difficult to implement, so we used the **`DAppRadar API`** to transfer game data to Near protocol as well as other networks from the API. It was disappointing that I couldn't take advantage of the various sponsor tracks because I had to bring them.
+2) English presentation required.
 
 ### Positive aspects
-- With only a few hours left until the submission deadline, there were issues with our platform not being able to integrate with the front end and AI model, but we did not give up and created a pitch deck to explain what our project was and a fully developed AI model. I was fortunate and glad that I was able to record a demo with the flow because I was able to show the code and that it was working properly.
-- Although it was not integrated with the front end, we had developed all of the code for the NEAR smart contract and the AI ​​model that analyzes vulnerabilities, so we had a GitHub repo where we could demonstrate our performance as much as possible within the hackathon period, and our The project was 90% complete, so I was really grateful and happy because there were team members who worked hard and worked hard to develop it.
+- We haven't used many sponsor tracks, and there aren't many places that provide on-chain game data to Near Protocol, so it was difficult, but fortunately, I was able to retrieve on-chain game data for web3 games through Subgraph on **`DAppRadar`** and **`The Graph`**. It was great to be able to complete a web3 game explorer that fits the purpose of our io.Side project.
 
 ### Things I learned from the hackathon
-- Even in a little over a month, we realized and learned that it is important to minimize the MVP features we want to create as much as possible. 
-- It may be easy as a planner, but in terms of development, I knew that it takes a long time to analyze various aspects such as the integration process and the API linking process, create the architecture, and ensure that the flow operates properly, so I decided to spend a little more time on MVP. I learned that it is also necessary to prepare an MVP only for edge points that can reduce the project to a minimum and maximize the quality and performance of the project.
+- [See that link](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%231.md#things-i-learned-from-the-hackathon)

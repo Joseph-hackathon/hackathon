@@ -24,7 +24,7 @@ We formed a team together by recruiting team members directly from the Discord c
 - Ideation
 - Research about market | competitors | referrence
 - Checek the Schedule
-- Make the Architecture | Demo video flow | Pitchdeck | Github repo readme file | Diagram
+- Make the Architecture | Demo video flow | Pitchdeck | Github repo readme file | Diagram | Prototype
 - Presentation
 - Summary for the meeting reports & Submmit contents
 
@@ -56,6 +56,24 @@ We formed a team together by recruiting team members directly from the Discord c
     - Supports reCAPTCHA-like functionality for security validation on web pages.
 5. **API Provision**:
     - Offers API access to analysis results and data, enabling e-commerce platforms or Web3 applications to use these as security solutions.
+
+### Prototype
+> Before
+
+#### API Docs page
+<img src="https://github.com/user-attachments/assets/2070dcb3-71e8-4f1c-8100-b0717b442b96" width="500" height="900">
+<br></br>
+
+#### Admin console page
+<img src="https://github.com/user-attachments/assets/51b6df3b-7009-432e-be1e-14d39f65386b" width="500" height="700">
+<br></br>
+
+> After
+
+#### API Docs page
+- In this hackathon, we simplified the API documentation page and created a page with only the key generation function.
+
+![image](https://github.com/user-attachments/assets/7222bc89-70c9-4ccc-b6a8-7c6800ad1117)
 
 ### Diagram
 ``` mermaid

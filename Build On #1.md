@@ -66,16 +66,13 @@ We formed a team together by recruiting team members directly from the Discord c
 - Not yet
 
 ### Areas for improvement
-1) We completed all of the smart contracts and AI models for each part, but in the process of integrating with the front end, there was a problem with the integration of the AI ​​model due to the high usage environment on PCs such as GPUs, so it was unfortunate that it could not be completed as a perfect platform.
-2) This Near Protocol Hackathon had many sponsored tracks that focused on AI technology, which was the core of this hackathon, but among the sponsored tracks, we used **ZettaBlock** and **Public AI**'s API to import on-chain data and train it in our AI model to model it. We tried to improve and collect and pre-process a lot of data, but there was not enough data related to the vulnerabilities we wanted, and there was a problem integrating the API, so it was disappointing that we could not utilize the sponsor tracks.
-3) Our MVP was to complete all of the API docs page, file upload page, and admin console page, but this MVP was not in a phase that could be completed within the period and had many overloaded functions, so it was difficult to manage these schedules. As a product manager, I was a bit lacking and was disappointed.
-4) English presentation required.
+1) In terms of retrieving on-chain data using the Quicknode API, I was disappointed because I thought it was insufficient to retrieve various types of data and more detailed meaningful data.
+2) It would have been nice to have content that imports various data, filters and preprocesses the data on its own, and provides it in a new data format, but it was unfortunate that there was not enough time to develop the content.
+3) English presentation required.
 
 ### Positive aspects
-- With only a few hours left until the submission deadline, there were issues with our platform not being able to integrate with the front end and AI model, but we did not give up and created a pitch deck to explain what our project was and a fully developed AI model. I was fortunate and glad that I was able to record a demo with the flow because I was able to show the code and that it was working properly.
-- Although it was not integrated with the front end, we had developed all of the code for the NEAR smart contract and the AI ​​model that analyzes vulnerabilities, so we had a GitHub repo where we could demonstrate our performance as much as possible within the hackathon period, and our The project was 90% complete, so I was really grateful and happy because there were team members who worked hard and worked hard to develop it.
+- The data itself from the act of receiving surveys from users is the most meaningful feedback for companies and data that can be used for UX and marketing, so I am proud to have developed a platform where such survey data can be easily obtained, and I am proud to provide it to my team members. thank you
+- Survey data contains user information, so we were thinking about how to secure this. A team member suggested the idea of ​​encrypting data using zk in Avail and uploading it to the on-chain, so we could develop and complete it and show it as a demo. It was really nice to have it.
 
 ### Things I learned from the hackathon
-- Even in a little over a month, we realized and learned that it is important to minimize the MVP features we want to create as much as possible. 
-- It may be easy as a planner, but in terms of development, I knew that it takes a long time to analyze various aspects such as the integration process and the API linking process, create the architecture, and ensure that the flow operates properly, so I decided to spend a little more time on MVP. I learned that it is also necessary to prepare an MVP only for edge points that can reduce the project to a minimum and maximize the quality and performance of the project.
-- Through this Near Hackathon, I learned that Near Protocol wants projects on how to utilize current AI and blockchain technology more effectively and is trying to actively utilize AI technology. And currently, Near AI has not yet developed a model, but I am looking forward to creating Near's own AI model by collecting data with various sponsors who participated this time.
+- Through this hackathon, I learned that Quicknode provides its own marketplace that seems to provide API applications to various data services, such as the Chrome Web Store, so that you can utilize the data collected by various services as well as APIs.

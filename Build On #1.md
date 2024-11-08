@@ -62,7 +62,7 @@ We formed a team together by recruiting team members directly from the Discord c
 ### Result
 - Not yet
 
-### Reason for falling (Feedback from NEAR Protocol judges)
+### Reason for falling (Feedback from QuickNode judges)
 - Not yet
 
 ### Areas for improvement

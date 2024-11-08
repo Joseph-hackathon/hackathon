@@ -3,7 +3,7 @@
 # Build On
 `Review of participation in the 22 hackathon.`
 
-[Demo](https://reception-seven.vercel.app/) | [Pitchdeck](https://drive.google.com/file/d/1gn9eo1JHbGmijGPWTwsq1gkfCLY_8rKp/view?usp=sharing) | [Github](https://github.com/Julius-Ky/reCeption) | [Video](https://youtu.be/puJjyTeLRjY)
+[Demo](http://datadiscovery.online:3103/) | [Pitchdeck](https://www.figma.com/deck/fXBn89zONz4B4siNLnr647) | [Github](https://github.com/hackathemy/datadiscovery) | [Video](https://youtu.be/2QSdw99h898)
 
 ## Overview
 **DataDiscovery** is a data asset management platform that collects, visualizes, and manages survey and on-chain data, allowing companies to purchase and utilize it.
@@ -13,88 +13,51 @@
 ### Team
 We formed a team together by recruiting team members directly from the Discord channel.
 - Product Manager 1
-- AI Engineer 1
-- Software Engineer 1
-- Smart contract 1
+- Full stack Dev 1
+- Smart contract 2
 - Frontend developer 1
 
 ### What i did
 👨🏼‍💻 Role: Product & Project Manager (PM)
 - Planning
-- Ideation
 - Research about market | competitors | referrence
 - Checek the Schedule
-- Make the Architecture | Demo video flow | Pitchdeck | Github repo readme file | Diagram | Prototype
+- Make the Architecture | Demo video flow | Pitchdeck | Github repo readme file | Prototype
 - Presentation
 - Summary for the meeting reports & Submmit contents
 
 ### Track
-- *Native Track*
-  - Best of AI
-  - Best of Chain Abstraction
-  - Best tech
-  - Honorable Mentions
-- *Chain Agnostic Track*
-  - Proximity Chain Abstraction Bounty
-  - Bounty Winners
-- *Bitte Wallet*
+- *QuickNode*
+  - Marketplace Add-Ons
+  - Best over-rall
+- *Coin API*
+- *Build with PYUSD*
+- *Avail*
 
 ## Project
-![image](https://github.com/user-attachments/assets/53dc68d9-378a-493c-bfe9-79c28cc9a673)
+![image](https://github.com/user-attachments/assets/059052e0-694a-498f-b7dd-4ff3b4d51380)
 <br></br>
 
-1. **AI-Based Smart Contract Analysis**:
-    - Users upload their smart contract code for analysis, where AI identifies security vulnerabilities, code flaws, and potential scams.
-2. **Automated Security Checks and Corrections**:
-    - Based on the analysis, the AI suggests and implements modifications, including security patches and performance optimizations.
-    - Provides a feature to automatically deploy the modified code within the platform.
-3. **Detailed Reporting**:
-    - Generates comprehensive reports detailing the issues found, modifications made, and explanations to help users understand improvements.
-    - Reports are available for download in CSV and PDF formats.
-4. **Admin Console**:
-    - An admin console allows administrators to set up and manage reCeption features on their own websites.
-    - Supports reCAPTCHA-like functionality for security validation on web pages.
-5. **API Provision**:
-    - Offers API access to analysis results and data, enabling e-commerce platforms or Web3 applications to use these as security solutions.
+- **Provide Secure and Reliable Data:** Upload survey data and on-chain data to Avail DA for safe storage and management, then upload and manage it by validating the existence and reliability of the data using ZK Encryption.
 
-### Prototype
-> Before
+- **Access Decentralized On-chain Data:** There is a vast amount of on-chain data, but it is often difficult to extract actionable insights with current tools. DataDiscovery simplifies this process by aggregating and visualizing various data with Coin API included in Quicknode Marketplace Add-On.
 
-#### API Docs page
-<img src="https://github.com/user-attachments/assets/2070dcb3-71e8-4f1c-8100-b0717b442b96" width="500" height="900">
+- **Buy Data:** Businesses can purchase useful, pre-filtered data directly with PYUSD for marketing, customer research, and other business needs. Additionally, commissions from the data sold are PYUSD rewarded to users who complete the survey.
+
+- **Make Better Decisions with Data:** DataDiscovery allows businesses to leverage valuable insights from surveys and on-chain data to improve their strategies, understand consumer behavior, and drive growth.
+
+- **Black/Whitelist Wallet Address Data:** Multiple wallet addresses are blacklisted/whitelisted and a list of their data is provided.
+
+### Process
+> Platform Process
+
+![image](https://github.com/user-attachments/assets/0cbea352-f7e8-440a-9bf9-c5e697e10094)
 <br></br>
 
-#### Admin console page
-<img src="https://github.com/user-attachments/assets/51b6df3b-7009-432e-be1e-14d39f65386b" width="500" height="700">
+> Users earn Process
+
+![image](https://github.com/user-attachments/assets/75c403b4-22e8-460f-948d-e55dd8da4b7e)
 <br></br>
-
-> After
-
-#### API Docs page
-- In this hackathon, we simplified the API documentation page and created a page with only the key generation function.
-
-![image](https://github.com/user-attachments/assets/7222bc89-70c9-4ccc-b6a8-7c6800ad1117)
-
-### Diagram
-``` mermaid
-sequenceDiagram
-participant User
-participant E-Commerce as E-Commerce (Platform)
-participant reCeption
-participant NEAR
-
-User ->> E-Commerce: 1. Login
-E-Commerce -->> E-Commerce: Response the user info
-User ->> E-Commerce: 2. Product Purchase (Cryptocurrency)
-E-Commerce ->> reCeption: 3. Send Smart Contract (Payment)
-reCeption ->> NEAR: 4. Smart Contract Analysis (NEAR AI)
-NEAR -->> NEAR: Handles verification & fee charges for interactions
-NEAR ->> reCeption: 5. Return Analysis result
-reCeption ->> User: 6. Return Safety Judgment
-User ->> E-Commerce: 7. Share whether to run (Check Box or Payment Approve)
-E-Commerce -->> E-Commerce: Response payment
-E-Commerce ->> NEAR: 8. Save contract data (Normal/Abnormal Classification)
-```
 
 ### Result
 - Not yet

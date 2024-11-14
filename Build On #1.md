@@ -60,7 +60,7 @@ We formed a team together by recruiting team members directly from the Discord c
 <br></br>
 
 ### Result
-- Not yet
+- 🥇 PYUSD — Buidl with PYUSD
 
 ### Reason for falling (Feedback from QuickNode judges)
 - Not yet

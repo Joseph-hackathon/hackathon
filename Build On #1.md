@@ -35,7 +35,7 @@ We formed a team together by recruiting team members directly from the Discord c
 - *Avail*
 
 ## Project
-![image](https://github.com/user-attachments/assets/059052e0-694a-498f-b7dd-4ff3b4d51380)
+![image](https://github.com/user-attachments/assets/9fbe916e-357c-47dc-9f97-109154c2a56b)
 <br></br>
 
 - **Provide Secure and Reliable Data:** Upload survey data and on-chain data to Avail DA for safe storage and management, then upload and manage it by validating the existence and reliability of the data using ZK Encryption.

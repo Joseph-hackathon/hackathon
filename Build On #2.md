@@ -73,13 +73,16 @@ sequenceDiagram
 - Not yet
 
 ### Areas for improvement
-1) In terms of retrieving on-chain data using the Quicknode API, I was disappointed because I thought it was insufficient to retrieve various types of data and more detailed meaningful data.
-2) It would have been nice to have content that imports various data, filters and preprocesses the data on its own, and provides it in a new data format, but it was unfortunate that there was not enough time to develop the content.
-3) English presentation required.
+1) Since there was only one developer, it was a little disappointing that he could not complete everything, including the backend, frontend, and smart contract, perfectly within the period.
+Therefore, since we were unable to develop the front-end, we simply presented our project in the form of a CLI interface. So it was disappointing that there was no separate demo site.
+2) It was disappointing that we could not utilize various on-chain API data.
+The purpose of this hackathon was how to use API data, and we aimed to use such data to allow users to create their own dashboards in a custom format and easily create them using AI, but unfortunately, various API data and It was disappointing that we couldn't develop the front end.
+3) We tried to use Avail DA to safely store dashboards and various data created by users in a custom format, but we were disappointed that we could not complete this within the period.
+4) Overall, it was judged that it was not a feature in the MVP version that could be completed within the period, and it was disappointing because I felt that it could have been completed if more developers had been recruited if necessary.
+5) English presentation required.
 
 ### Positive aspects
-- The data itself from the act of receiving surveys from users is the most meaningful feedback for companies and data that can be used for UX and marketing, so I am proud to have developed a platform where such survey data can be easily obtained, and I am proud to provide it to my team members. thank you
-- Survey data contains user information, so we were thinking about how to secure this. A team member suggested the idea of ​​encrypting data using zk in Avail and uploading it to the on-chain, so we could develop and complete it and show it as a demo. It was really nice to have it.
+- We were fortunate and thankful that one developer was able to import Quicknode's on-chain data through CLI and complete development at least a little in line with our goals and desired direction.
 
 ### Things I learned from the hackathon
-- Through this hackathon, I learned that Quicknode provides its own marketplace that seems to provide API applications to various data services, such as the Chrome Web Store, so that you can utilize the data collected by various services as well as APIs.
+- I learned that the MVP function initially planned must be actively changed and modified depending on the team members or personnel, so that there is a high possibility of a high-quality project as a result.

@@ -61,7 +61,7 @@ sequenceDiagram
 ```
 
 ### Result
-- Not yet
+- 🥉 Third Place
 
 ### Reason for falling (Feedback from IBC Protocol judges)
 - Not yet

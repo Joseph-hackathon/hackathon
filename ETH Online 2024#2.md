@@ -70,15 +70,3 @@ graph TD;
 
 ### Result
 - Hedera - Hedera-Native Services Starter Bounty
-
-### Reason for falling (Feedback from ETHGlobal judges)
-- Not yet
-
-### Areas for improvement
-3) English presentation required
-
-### Positive aspects
-- 
-
-### Things I learned from the hackathon
-- 

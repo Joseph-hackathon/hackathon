@@ -43,8 +43,9 @@ By using Ripple (XRP) for fast, low-cost payments, we aim to make Web3 accessibl
 ### Result
 - 🥉 3rd Place
 
-### Reason for falling (Feedback from IBC Protocol judges)
-- Not yet
+### Reason for falling (Feedback from XRPL judges)
+- "The idea is very interesting, as it allows people to transact real goods with crypto or digital assets. The other challenge is solving the regulatory aspect and how to navigate regulations to ensure it can legally operate in various jurisdictions.”
+- “This product would be appealing if users need a borderless payment method, but it will require strong management for the delivery of physical goods. Overall, I'm really looking forward to the development of this product.”
 
 ### Areas for improvement
 1) English presentation required.

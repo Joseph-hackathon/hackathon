@@ -51,7 +51,7 @@ By using Ripple (XRP) for fast, low-cost payments, we aim to make Web3 accessibl
 
 ### Positive aspects
 - Although the function to bridge the EVM chain was not fully implemented within the period, the code was structured to a certain extent, and when pitching this, the goal and timeline of continuous development were clearly set, so the EVM side chain was launched. I'm glad I was able to get good results on the track.
-- 
+
 ### Things I learned from the hackathon
 - I learned that the results may vary depending on the presentation, presentation materials, and document content. We did not receive any awards when we submitted this service to the previous Ripple hackathon. However, this time, we reorganized again, revised and submitted presentation materials and documents, and were able to obtain good results.
 - I think it is a good idea to analyze and make a strategic decision about the track you choose when submitting. We submitted the Non-EVM track in the previous hackathon, but this time we chose and submitted the EVM track and got good results.

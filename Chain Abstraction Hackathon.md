@@ -1,3 +1,5 @@
+<p align="center"><code>Review of participation in the 23 hackathon.</code></p>
+
 <h1 align="center">Xchain Shop</h1>
 
 <p align="center">
@@ -5,8 +7,6 @@
 </p>
 
 <p align="center">Global P2P-based used <code>second trading</code>code> platform service.</p>
-
-`Review of participation in the 23 hackathon.`
 
 ## Overview
 <p align="center">
